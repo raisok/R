@@ -40,6 +40,7 @@ plot(g,layout=layout.fruchterman.reingold, vertex.size=V(g)$size,
 #dev.off()
 
 #!/usr/bin/R
+
 library("igraph")
 
 data = read.table("/home/Project/KC2017-A05/miRNA/11.kegg/UACC812.3440_UACC812/sig_Down_miRNAs_target_gene.txt", header = T)
