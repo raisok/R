@@ -1,0 +1,975 @@
+GO_accession	Description	Term_type	Over_represented_pValue	Corrected_pValue	DEG_item	DEG_list	Bg_item	Bg_list	Gene_names
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	molecular_function	0.00039245	0.9247	8	106	468	30985	c76023_g2,c72301_g1,c74877_g1,c34399_g1,c55414_g1,c74814_g1,c79008_g2,c77303_g4
+GO:0060548	negative regulation of cell death	biological_process	0.00042714	0.9247	3	106	56	30985	c5230_g1,c33876_g1,c128334_g1
+GO:0055080	cation homeostasis	biological_process	0.00046635	0.9247	4	106	103	30985	c76964_g4,c5230_g1,c4845_g1,c128334_g1
+GO:0050801	ion homeostasis	biological_process	0.00048861	0.9247	4	106	105	30985	c128334_g1,c4845_g1,c5230_g1,c76964_g4
+GO:0016798	hydrolase activity, acting on glycosyl bonds	molecular_function	0.00072162	0.9247	8	106	510	30985	c72301_g1,c76023_g2,c55414_g1,c34399_g1,c74877_g1,c79008_g2,c74814_g1,c77303_g4
+GO:0048878	chemical homeostasis	biological_process	0.00077778	0.9247	4	106	122	30985	c128334_g1,c4845_g1,c76964_g4,c5230_g1
+GO:0055067	monovalent inorganic cation homeostasis	biological_process	0.0015083	0.9247	2	106	19	30985	c128334_g1,c76964_g4
+GO:0005982	starch metabolic process	biological_process	0.0015675	0.9247	4	106	169	30985	c77303_g4,c34399_g1,c55414_g1,c79008_g2
+GO:0005985	sucrose metabolic process	biological_process	0.0015675	0.9247	4	106	169	30985	c55414_g1,c34399_g1,c77303_g4,c79008_g2
+GO:0006879	cellular iron ion homeostasis	biological_process	0.002181	0.9247	2	106	24	30985	c5230_g1,c4845_g1
+GO:0046916	cellular transition metal ion homeostasis	biological_process	0.002181	0.9247	2	106	24	30985	c4845_g1,c5230_g1
+GO:0055072	iron ion homeostasis	biological_process	0.002181	0.9247	2	106	24	30985	c5230_g1,c4845_g1
+GO:0004650	polygalacturonase activity	molecular_function	0.0025473	0.9247	2	106	25	30985	c55414_g1,c77303_g4
+GO:0008810	cellulase activity	molecular_function	0.0027757	0.9247	2	106	16	30985	c79008_g2,c34399_g1
+GO:0005984	disaccharide metabolic process	biological_process	0.0027998	0.9247	4	106	197	30985	c79008_g2,c77303_g4,c55414_g1,c34399_g1
+GO:0006073	cellular glucan metabolic process	biological_process	0.0028138	0.9247	4	106	193	30985	c79008_g2,c34399_g1,c55414_g1,c77303_g4
+GO:0044042	glucan metabolic process	biological_process	0.0028138	0.9247	4	106	193	30985	c79008_g2,c77303_g4,c34399_g1,c55414_g1
+GO:0006508	proteolysis	biological_process	0.0031389	0.9247	12	106	1194	30985	c71972_g1,c74059_g5,c33876_g1,c81298_g1,c80170_g4,c76375_g2,c75191_g1,c78449_g1,c68882_g1,c70869_g1,c72070_g1,c65216_g1
+GO:0008219	cell death	biological_process	0.0031852	0.9247	4	106	187	30985	c128334_g1,c82740_g1,c5230_g1,c33876_g1
+GO:0016265	death	biological_process	0.0031852	0.9247	4	106	187	30985	c82740_g1,c33876_g1,c5230_g1,c128334_g1
+GO:0008199	ferric iron binding	molecular_function	0.0032371	0.9247	2	106	28	30985	c5230_g1,c4845_g1
+GO:0004322	ferroxidase activity	molecular_function	0.0035182	0.9247	1	106	1	30985	c5230_g1
+GO:0006880	intracellular sequestering of iron ion	biological_process	0.0035182	0.9247	1	106	1	30985	c5230_g1
+GO:0016722	oxidoreductase activity, oxidizing metal ions	molecular_function	0.0035182	0.9247	1	106	1	30985	c5230_g1
+GO:0016724	oxidoreductase activity, oxidizing metal ions, oxygen as acceptor	molecular_function	0.0035182	0.9247	1	106	1	30985	c5230_g1
+GO:0055065	metal ion homeostasis	biological_process	0.0035781	0.9247	3	106	86	30985	c5230_g1,c4845_g1,c128334_g1
+GO:0042221	response to chemical stimulus	biological_process	0.0036352	0.9247	7	106	537	30985	c73070_g1,c66959_g1,c74406_g1,c76369_g1,c72971_g1,c128334_g1,c71758_g1
+GO:0008043	intracellular ferritin complex	cellular_component	0.0037599	0.9247	1	106	1	30985	c4845_g1
+GO:0070288	ferritin complex	cellular_component	0.0037599	0.9247	1	106	1	30985	c4845_g1
+GO:0035811	negative regulation of urine volume	biological_process	0.0037857	0.9247	1	106	1	30985	c128334_g1
+GO:0035814	negative regulation of renal sodium excretion	biological_process	0.0037857	0.9247	1	106	1	30985	c128334_g1
+GO:0055076	transition metal ion homeostasis	biological_process	0.0043165	0.9247	2	106	30	30985	c4845_g1,c5230_g1
+GO:0010939	regulation of necrotic cell death	biological_process	0.0045627	0.9247	1	106	2	30985	c5230_g1
+GO:0060547	negative regulation of necrotic cell death	biological_process	0.0045627	0.9247	1	106	2	30985	c5230_g1
+GO:0070265	necrotic cell death	biological_process	0.0045627	0.9247	1	106	2	30985	c5230_g1
+GO:0007588	excretion	biological_process	0.0048088	0.9247	1	106	2	30985	c128334_g1
+GO:0035809	regulation of urine volume	biological_process	0.0048088	0.9247	1	106	2	30985	c128334_g1
+GO:0035812	renal sodium excretion	biological_process	0.0048088	0.9247	1	106	2	30985	c128334_g1
+GO:0035813	regulation of renal sodium excretion	biological_process	0.0048088	0.9247	1	106	2	30985	c128334_g1
+GO:0044062	regulation of excretion	biological_process	0.0048088	0.9247	1	106	2	30985	c128334_g1
+GO:0055078	sodium ion homeostasis	biological_process	0.0048088	0.9247	1	106	2	30985	c128334_g1
+GO:0044264	cellular polysaccharide metabolic process	biological_process	0.005325	0.99959	4	106	221	30985	c79008_g2,c55414_g1,c34399_g1,c77303_g4
+GO:0003084	positive regulation of systemic arterial blood pressure	biological_process	0.0056528	1	1	106	2	30985	c128334_g1
+GO:0003014	renal system process	biological_process	0.0060238	1	1	106	3	30985	c128334_g1
+GO:0004411	homogentisate 1,2-dioxygenase activity	molecular_function	0.0061214	1	1	106	2	30985	c66959_g1
+GO:0004104	cholinesterase activity	molecular_function	0.0061846	1	1	106	1	30985	c81725_g1
+GO:0010941	regulation of cell death	biological_process	0.0062857	1	3	106	123	30985	c128334_g1,c5230_g1,c33876_g1
+GO:0009311	oligosaccharide metabolic process	biological_process	0.0065481	1	4	106	242	30985	c79008_g2,c77303_g4,c55414_g1,c34399_g1
+GO:0055085	transmembrane transport	biological_process	0.0070329	1	13	106	1524	30985	c79376_g2,c67670_g2,c125785_g1,c64817_g1,c81928_g3,c74721_g1,c73259_g1,c80266_g1,c77269_g1,c82785_g1,c80377_g1,c76964_g4,c73070_g1
+GO:0005901	caveola	cellular_component	0.0071477	1	1	106	2	30985	c33876_g1
+GO:0048147	negative regulation of fibroblast proliferation	biological_process	0.0076523	1	1	106	3	30985	c5230_g1
+GO:0030984	kininogen binding	molecular_function	0.0084597	1	1	106	3	30985	c33876_g1
+GO:0033194	response to hydroperoxide	biological_process	0.0086329	1	1	106	3	30985	c128334_g1
+GO:0042127	regulation of cell proliferation	biological_process	0.0091751	1	2	106	61	30985	c128334_g1,c5230_g1
+GO:0005976	polysaccharide metabolic process	biological_process	0.00921	1	4	106	255	30985	c79008_g2,c34399_g1,c55414_g1,c77303_g4
+GO:0005000	vasopressin receptor activity	molecular_function	0.0094523	1	1	106	2	30985	c128334_g1
+GO:0048144	fibroblast proliferation	biological_process	0.0098746	1	1	106	4	30985	c5230_g1
+GO:0048145	regulation of fibroblast proliferation	biological_process	0.0098746	1	1	106	4	30985	c5230_g1
+GO:0032609	interferon-gamma production	biological_process	0.010035	1	1	106	4	30985	c128334_g1
+GO:0051238	sequestering of metal ion	biological_process	0.010493	1	1	106	4	30985	c5230_g1
+GO:0044057	regulation of system process	biological_process	0.010785	1	2	106	52	30985	c128334_g1,c78856_g1
+GO:0045777	positive regulation of blood pressure	biological_process	0.011022	1	1	106	5	30985	c128334_g1
+GO:0006559	L-phenylalanine catabolic process	biological_process	0.012033	1	1	106	3	30985	c66959_g1
+GO:1902222	erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process	biological_process	0.012033	1	1	106	3	30985	c66959_g1
+GO:0042383	sarcolemma	cellular_component	0.012696	1	1	106	5	30985	c33876_g1
+GO:0043621	protein self-association	molecular_function	0.012889	1	1	106	3	30985	c33876_g1
+GO:0016021	integral to membrane	cellular_component	0.013411	1	23	106	3617	30985	c80377_g1,c74439_g1,c74406_g1,c82981_g1,c76964_g4,c79376_g2,c128334_g1,c67670_g2,c82740_g1,c81928_g3,c74452_g4,c71730_g1,c70227_g2,c82785_g1,c77269_g1,c70975_g1,c73070_g1,c76964_g1,c71858_g1,c75240_g2,c78824_g1,c70355_g2,c64817_g1
+GO:0004375	glycine dehydrogenase (decarboxylating) activity	molecular_function	0.013994	1	1	106	4	30985	c80324_g2
+GO:0016642	oxidoreductase activity, acting on the CH-NH2 group of donors, disulfide as acceptor	molecular_function	0.013994	1	1	106	4	30985	c80324_g2
+GO:0031224	intrinsic to membrane	cellular_component	0.014964	1	23	106	3656	30985	c70975_g1,c71858_g1,c76964_g1,c73070_g1,c70227_g2,c71730_g1,c74452_g4,c77269_g1,c82785_g1,c64817_g1,c70355_g2,c75240_g2,c78824_g1,c82981_g1,c74406_g1,c74439_g1,c76964_g4,c80377_g1,c82740_g1,c81928_g3,c128334_g1,c79376_g2,c67670_g2
+GO:0051048	negative regulation of secretion	biological_process	0.015239	1	1	106	5	30985	c128334_g1
+GO:0003073	regulation of systemic arterial blood pressure	biological_process	0.015784	1	1	106	6	30985	c128334_g1
+GO:0070011	peptidase activity, acting on L-amino acid peptides	molecular_function	0.016377	1	11	106	1288	30985	c74059_g5,c33876_g1,c71972_g1,c75191_g1,c81298_g1,c80170_g4,c76375_g2,c68882_g1,c65216_g1,c70869_g1,c72070_g1
+GO:0016560	protein import into peroxisome matrix, docking	biological_process	0.016451	1	1	106	5	30985	c64817_g1
+GO:0030425	dendrite	cellular_component	0.016612	1	1	106	9	30985	c128334_g1
+GO:0016324	apical plasma membrane	cellular_component	0.016865	1	1	106	9	30985	c33876_g1
+GO:0016787	hydrolase activity	molecular_function	0.018614	1	31	106	5464	30985	c68882_g1,c81319_g1,c76369_g1,c70869_g1,c81725_g1,c73886_g1,c74814_g1,c33876_g1,c73070_g1,c74059_g5,c74877_g1,c34399_g1,c55414_g1,c77576_g1,c71972_g1,c80706_g1,c82785_g1,c77700_g1,c72301_g1,c76375_g2,c74106_g1,c77303_g4,c65216_g1,c79008_g2,c72070_g1,c75191_g1,c64241_g1,c76023_g2,c80170_g4,c81298_g1,c72971_g1
+GO:2000021	regulation of ion homeostasis	biological_process	0.020279	1	1	106	11	30985	c128334_g1
+GO:0034755	iron ion transmembrane transport	biological_process	0.020343	1	1	106	8	30985	c82785_g1
+GO:1901700	response to oxygen-containing compound	biological_process	0.020683	1	2	106	73	30985	c128334_g1,c76369_g1
+GO:0043025	neuronal cell body	cellular_component	0.020749	1	1	106	10	30985	c128334_g1
+GO:0033057	multicellular organismal reproductive behavior	biological_process	0.0209	1	1	106	5	30985	c71858_g1
+GO:0045297	post-mating behavior	biological_process	0.0209	1	1	106	5	30985	c71858_g1
+GO:0045924	regulation of female receptivity	biological_process	0.0209	1	1	106	5	30985	c71858_g1
+GO:0046008	regulation of female receptivity, post-mating	biological_process	0.0209	1	1	106	5	30985	c71858_g1
+GO:0060180	female mating behavior	biological_process	0.0209	1	1	106	5	30985	c71858_g1
+GO:0016558	protein import into peroxisome matrix	biological_process	0.022535	1	1	106	6	30985	c64817_g1
+GO:0010628	positive regulation of gene expression	biological_process	0.02326	1	2	106	76	30985	c82740_g1,c128334_g1
+GO:0005975	carbohydrate metabolic process	biological_process	0.024233	1	10	106	1406	30985	c79008_g2,c74814_g1,c77303_g4,c76023_g2,c72301_g1,c77284_g1,c34399_g1,c55414_g1,c74877_g1,c77857_g2
+GO:0045177	apical part of cell	cellular_component	0.02429	1	1	106	12	30985	c33876_g1
+GO:0008236	serine-type peptidase activity	molecular_function	0.025005	1	5	106	418	30985	c74059_g5,c76375_g2,c70869_g1,c81298_g1,c75191_g1
+GO:0017171	serine hydrolase activity	molecular_function	0.025005	1	5	106	418	30985	c74059_g5,c76375_g2,c70869_g1,c81298_g1,c75191_g1
+GO:0003785	actin monomer binding	molecular_function	0.025028	1	1	106	7	30985	c40551_g1
+GO:0005342	organic acid transmembrane transporter activity	molecular_function	0.025562	1	2	106	67	30985	c80184_g1,c74721_g1
+GO:0046943	carboxylic acid transmembrane transporter activity	molecular_function	0.025562	1	2	106	67	30985	c80184_g1,c74721_g1
+GO:0009074	aromatic amino acid family catabolic process	biological_process	0.025587	1	1	106	9	30985	c66959_g1
+GO:0008514	organic anion transmembrane transporter activity	molecular_function	0.026792	1	2	106	70	30985	c80184_g1,c74721_g1
+GO:0044297	cell body	cellular_component	0.027295	1	1	106	13	30985	c128334_g1
+GO:0008233	peptidase activity	molecular_function	0.028454	1	11	106	1408	30985	c81298_g1,c80170_g4,c76375_g2,c75191_g1,c71972_g1,c74059_g5,c33876_g1,c70869_g1,c72070_g1,c65216_g1,c68882_g1
+GO:1901031	regulation of response to reactive oxygen species	biological_process	0.029105	1	1	106	7	30985	c76369_g1
+GO:0001653	peptide receptor activity	molecular_function	0.029792	1	1	106	10	30985	c128334_g1
+GO:0008528	G-protein coupled peptide receptor activity	molecular_function	0.029792	1	1	106	10	30985	c128334_g1
+GO:0006875	cellular metal ion homeostasis	biological_process	0.030552	1	2	106	79	30985	c5230_g1,c4845_g1
+GO:0006873	cellular ion homeostasis	biological_process	0.031133	1	2	106	82	30985	c4845_g1,c5230_g1
+GO:0030003	cellular cation homeostasis	biological_process	0.031133	1	2	106	82	30985	c4845_g1,c5230_g1
+GO:0006546	glycine catabolic process	biological_process	0.03178	1	1	106	7	30985	c80324_g2
+GO:0009071	serine family amino acid catabolic process	biological_process	0.03178	1	1	106	7	30985	c80324_g2
+GO:0003008	system process	biological_process	0.033479	1	4	106	348	30985	c70227_g2,c78856_g1,c128334_g1,c74406_g1
+GO:0007271	synaptic transmission, cholinergic	biological_process	0.033811	1	1	106	9	30985	c78856_g1
+GO:0032222	regulation of synaptic transmission, cholinergic	biological_process	0.033811	1	1	106	9	30985	c78856_g1
+GO:0034235	GPI anchor binding	molecular_function	0.033811	1	1	106	9	30985	c78856_g1
+GO:0004197	cysteine-type endopeptidase activity	molecular_function	0.034872	1	3	106	173	30985	c71972_g1,c33876_g1,c65216_g1
+GO:0009403	toxin biosynthetic process	biological_process	0.035055	1	1	106	11	30985	c80170_g4
+GO:0044262	cellular carbohydrate metabolic process	biological_process	0.035266	1	4	106	393	30985	c77303_g4,c34399_g1,c55414_g1,c79008_g2
+GO:0009897	external side of plasma membrane	cellular_component	0.035381	1	1	106	13	30985	c33876_g1
+GO:0006891	intra-Golgi vesicle-mediated transport	biological_process	0.035456	1	2	106	67	30985	c70975_g1,c78856_g1
+GO:0006979	response to oxidative stress	biological_process	0.035549	1	2	106	106	30985	c76369_g1,c128334_g1
+GO:0055082	cellular chemical homeostasis	biological_process	0.035622	1	2	106	89	30985	c4845_g1,c5230_g1
+GO:0042592	homeostatic process	biological_process	0.035639	1	4	106	356	30985	c128334_g1,c4845_g1,c76964_g4,c5230_g1
+GO:0009251	glucan catabolic process	biological_process	0.035685	1	1	106	7	30985	c34399_g1
+GO:0030245	cellulose catabolic process	biological_process	0.035685	1	1	106	7	30985	c34399_g1
+GO:0044247	cellular polysaccharide catabolic process	biological_process	0.035685	1	1	106	7	30985	c34399_g1
+GO:0051275	beta-glucan catabolic process	biological_process	0.035685	1	1	106	7	30985	c34399_g1
+GO:0017153	sodium:dicarboxylate symporter activity	molecular_function	0.036877	1	1	106	8	30985	c80184_g1
+GO:0032844	regulation of homeostatic process	biological_process	0.037133	1	1	106	17	30985	c128334_g1
+GO:0048471	perinuclear region of cytoplasm	cellular_component	0.03752	1	1	106	21	30985	c33876_g1
+GO:0030431	sleep	biological_process	0.0388	1	1	106	10	30985	c78856_g1
+GO:0051046	regulation of secretion	biological_process	0.038924	1	1	106	15	30985	c128334_g1
+GO:0015296	anion:cation symporter activity	molecular_function	0.039027	1	1	106	9	30985	c80184_g1
+GO:0008285	negative regulation of cell proliferation	biological_process	0.039375	1	1	106	19	30985	c5230_g1
+GO:0034097	response to cytokine stimulus	biological_process	0.039382	1	1	106	15	30985	c128334_g1
+GO:0043005	neuron projection	cellular_component	0.039494	1	1	106	17	30985	c128334_g1
+GO:0007623	circadian rhythm	biological_process	0.04094	1	1	106	16	30985	c125785_g1
+GO:0006625	protein targeting to peroxisome	biological_process	0.041061	1	1	106	10	30985	c64817_g1
+GO:0043574	peroxisomal transport	biological_process	0.041061	1	1	106	10	30985	c64817_g1
+GO:0072662	protein localization to peroxisome	biological_process	0.041061	1	1	106	10	30985	c64817_g1
+GO:0072663	establishment of protein localization to peroxisome	biological_process	0.041061	1	1	106	10	30985	c64817_g1
+GO:0005520	insulin-like growth factor binding	molecular_function	0.041954	1	1	106	13	30985	c64419_g2
+GO:0016942	insulin-like growth factor binding protein complex	cellular_component	0.041954	1	1	106	13	30985	c64419_g2
+GO:0016503	pheromone receptor activity	molecular_function	0.04203	1	1	106	9	30985	c74406_g1
+GO:0003810	protein-glutamine gamma-glutamyltransferase activity	molecular_function	0.044807	1	1	106	9	30985	c76633_g1
+GO:0007617	mating behavior	biological_process	0.045677	1	1	106	10	30985	c71858_g1
+GO:0019098	reproductive behavior	biological_process	0.045677	1	1	106	10	30985	c71858_g1
+GO:0050804	regulation of synaptic transmission	biological_process	0.047699	1	1	106	15	30985	c78856_g1
+GO:0018966	styrene metabolic process	biological_process	0.04916	1	1	106	13	30985	c66959_g1
+GO:0042207	styrene catabolic process	biological_process	0.04916	1	1	106	13	30985	c66959_g1
+GO:0004174	electron-transferring-flavoprotein dehydrogenase activity	molecular_function	0.049764	1	1	106	14	30985	c72253_g1
+GO:0016649	oxidoreductase activity, acting on the CH-NH group of donors, quinone or similar compound as acceptor	molecular_function	0.049764	1	1	106	14	30985	c72253_g1
+GO:0022857	transmembrane transporter activity	molecular_function	0.050136	1	13	106	1967	30985	c73070_g1,c80184_g1,c76964_g4,c82785_g1,c80377_g1,c80266_g1,c77269_g1,c74452_g4,c73259_g1,c81928_g3,c74721_g1,c125785_g1,c67670_g2
+GO:0044706	multi-multicellular organism process	biological_process	0.050757	1	1	106	21	30985	c71858_g1
+GO:0018149	peptide cross-linking	biological_process	0.050965	1	1	106	11	30985	c76633_g1
+GO:0006885	regulation of pH	biological_process	0.052538	1	1	106	18	30985	c76964_g4
+GO:0007618	mating	biological_process	0.052753	1	1	106	13	30985	c71858_g1
+GO:0045121	membrane raft	cellular_component	0.052923	1	1	106	19	30985	c33876_g1
+GO:0008217	regulation of blood pressure	biological_process	0.053131	1	1	106	19	30985	c128334_g1
+GO:0051241	negative regulation of multicellular organismal process	biological_process	0.053156	1	1	106	21	30985	c128334_g1
+GO:0044723	single-organism carbohydrate metabolic process	biological_process	0.05401	1	6	106	797	30985	c77303_g4,c34399_g1,c55414_g1,c77857_g2,c79008_g2,c76023_g2
+GO:0004348	glucosylceramidase activity	molecular_function	0.054494	1	1	106	13	30985	c76023_g2
+GO:1900673	olefin metabolic process	biological_process	0.054861	1	1	106	14	30985	c66959_g1
+GO:0001558	regulation of cell growth	biological_process	0.055174	1	1	106	21	30985	c64419_g2
+GO:0015299	solute:hydrogen antiporter activity	molecular_function	0.055804	1	1	106	16	30985	c76964_g4
+GO:0051969	regulation of transmission of nerve impulse	biological_process	0.055897	1	1	106	21	30985	c78856_g1
+GO:0005310	dicarboxylic acid transmembrane transporter activity	molecular_function	0.058353	1	1	106	13	30985	c80184_g1
+GO:0006826	iron ion transport	biological_process	0.05846	1	2	106	98	30985	c5230_g1,c82785_g1
+GO:0051705	multi-organism behavior	biological_process	0.058461	1	1	106	13	30985	c71858_g1
+GO:0097458	neuron part	cellular_component	0.058621	1	1	106	22	30985	c128334_g1
+GO:0000302	response to reactive oxygen species	biological_process	0.060582	1	1	106	21	30985	c76369_g1
+GO:0015298	solute:cation antiporter activity	molecular_function	0.061452	1	1	106	17	30985	c76964_g4
+GO:0015291	secondary active transmembrane transporter activity	molecular_function	0.062006	1	2	106	112	30985	c76964_g4,c80184_g1
+GO:0005343	organic acid:sodium symporter activity	molecular_function	0.062351	1	1	106	15	30985	c80184_g1
+GO:0071203	WASH complex	cellular_component	0.062411	1	1	106	19	30985	c78964_g1
+GO:0046677	response to antibiotic	biological_process	0.06281	1	1	106	19	30985	c71758_g1
+GO:0007249	I-kappaB kinase/NF-kappaB cascade	biological_process	0.063339	1	1	106	23	30985	c128334_g1
+GO:0042765	GPI-anchor transamidase complex	cellular_component	0.064693	1	1	106	15	30985	c78824_g1
+GO:0016049	cell growth	biological_process	0.06532	1	1	106	25	30985	c64419_g2
+GO:0044275	cellular carbohydrate catabolic process	biological_process	0.066241	1	1	106	20	30985	c34399_g1
+GO:0031644	regulation of neurological system process	biological_process	0.066377	1	1	106	25	30985	c78856_g1
+GO:0048511	rhythmic process	biological_process	0.067065	1	1	106	25	30985	c125785_g1
+GO:0019838	growth factor binding	molecular_function	0.067185	1	1	106	21	30985	c64419_g2
+GO:0004611	phosphoenolpyruvate carboxykinase activity	molecular_function	0.071694	1	1	106	30	30985	c77857_g2
+GO:0000323	lytic vacuole	cellular_component	0.072523	1	1	106	24	30985	c33876_g1
+GO:0005764	lysosome	cellular_component	0.072523	1	1	106	24	30985	c33876_g1
+GO:0005544	calcium-dependent phospholipid binding	molecular_function	0.073089	1	1	106	26	30985	c71652_g1
+GO:0051051	negative regulation of transport	biological_process	0.07496	1	1	106	27	30985	c128334_g1
+GO:0010604	positive regulation of macromolecule metabolic process	biological_process	0.07575	1	2	106	148	30985	c82740_g1,c128334_g1
+GO:0042178	xenobiotic catabolic process	biological_process	0.076131	1	1	106	22	30985	c66959_g1
+GO:0051239	regulation of multicellular organismal process	biological_process	0.076335	1	2	106	157	30985	c78856_g1,c128334_g1
+GO:0008234	cysteine-type peptidase activity	molecular_function	0.076696	1	3	106	241	30985	c65216_g1,c71972_g1,c33876_g1
+GO:0019236	response to pheromone	biological_process	0.077625	1	1	106	16	30985	c74406_g1
+GO:0030243	cellulose metabolic process	biological_process	0.078422	1	1	106	30	30985	c34399_g1
+GO:0000003	reproduction	biological_process	0.07852	1	4	106	445	30985	c71980_g1,c80170_g4,c71858_g1,c78292_g2
+GO:0005506	iron ion binding	molecular_function	0.079184	1	3	106	299	30985	c4845_g1,c76391_g1,c5230_g1
+GO:0019082	viral protein processing	biological_process	0.079787	1	1	106	24	30985	c81339_g1
+GO:0000042	protein targeting to Golgi	biological_process	0.080096	1	1	106	19	30985	c78856_g1
+GO:0000301	retrograde transport, vesicle recycling within Golgi	biological_process	0.080096	1	1	106	19	30985	c78856_g1
+GO:0034067	protein localization to Golgi apparatus	biological_process	0.080096	1	1	106	19	30985	c78856_g1
+GO:0072600	establishment of protein localization to Golgi	biological_process	0.080096	1	1	106	19	30985	c78856_g1
+GO:0005543	phospholipid binding	molecular_function	0.080714	1	2	106	114	30985	c78856_g1,c71652_g1
+GO:1901565	organonitrogen compound catabolic process	biological_process	0.081222	1	4	106	414	30985	c83373_g2,c66959_g1,c76023_g2,c80324_g2
+GO:0044703	multi-organism reproductive process	biological_process	0.081648	1	1	106	29	30985	c71858_g1
+GO:0030170	pyridoxal phosphate binding	molecular_function	0.083562	1	2	106	136	30985	c80345_g1,c80324_g2
+GO:0004930	G-protein coupled receptor activity	molecular_function	0.083994	1	3	106	230	30985	c128334_g1,c82740_g1,c74406_g1
+GO:0005242	inward rectifier potassium channel activity	molecular_function	0.085742	1	1	106	18	30985	c74452_g4
+GO:0048038	quinone binding	molecular_function	0.085817	1	1	106	32	30985	c128334_g1
+GO:0015075	ion transmembrane transporter activity	molecular_function	0.087369	1	9	106	1369	30985	c76964_g4,c80184_g1,c73070_g1,c73259_g1,c74452_g4,c80266_g1,c82785_g1,c125785_g1,c74721_g1
+GO:0006805	xenobiotic metabolic process	biological_process	0.087652	1	2	106	106	30985	c66959_g1,c72971_g1
+GO:0071466	cellular response to xenobiotic stimulus	biological_process	0.087652	1	2	106	106	30985	c72971_g1,c66959_g1
+GO:1901606	alpha-amino acid catabolic process	biological_process	0.088339	1	2	106	144	30985	c80324_g2,c66959_g1
+GO:0009410	response to xenobiotic stimulus	biological_process	0.088672	1	2	106	107	30985	c72971_g1,c66959_g1
+GO:0040008	regulation of growth	biological_process	0.088793	1	1	106	32	30985	c64419_g2
+GO:0010033	response to organic substance	biological_process	0.089965	1	2	106	151	30985	c74406_g1,c128334_g1
+GO:0042710	biofilm formation	biological_process	0.090054	1	1	106	23	30985	c82785_g1
+GO:0051861	glycolipid binding	molecular_function	0.090055	1	1	106	26	30985	c78856_g1
+GO:0006915	apoptotic process	biological_process	0.092369	1	2	106	158	30985	c82740_g1,c128334_g1
+GO:0012501	programmed cell death	biological_process	0.092369	1	2	106	158	30985	c128334_g1,c82740_g1
+GO:0048523	negative regulation of cellular process	biological_process	0.093014	1	3	106	314	30985	c33876_g1,c5230_g1,c128334_g1
+GO:0009063	cellular amino acid catabolic process	biological_process	0.09413	1	2	106	149	30985	c66959_g1,c80324_g2
+GO:0008283	cell proliferation	biological_process	0.094651	1	2	106	151	30985	c5230_g1,c128334_g1
+GO:0044425	membrane part	cellular_component	0.095092	1	24	106	4827	30985	c81928_g3,c82740_g1,c67670_g2,c79376_g2,c128334_g1,c76964_g4,c74406_g1,c74439_g1,c82981_g1,c80377_g1,c70355_g2,c64817_g1,c78824_g1,c75240_g2,c73070_g1,c76964_g1,c33876_g1,c71858_g1,c70975_g1,c82785_g1,c77269_g1,c71730_g1,c74452_g4,c70227_g2
+GO:0008284	positive regulation of cell proliferation	biological_process	0.095326	1	1	106	42	30985	c128334_g1
+GO:0003013	circulatory system process	biological_process	0.095491	1	1	106	35	30985	c128334_g1
+GO:0008015	blood circulation	biological_process	0.095491	1	1	106	35	30985	c128334_g1
+GO:0006811	ion transport	biological_process	0.096277	1	11	106	1830	30985	c128334_g1,c74721_g1,c5230_g1,c125785_g1,c82785_g1,c80266_g1,c74452_g4,c73259_g1,c73070_g1,c80184_g1,c76964_g4
+GO:0044765	single-organism transport	biological_process	0.096855	1	19	106	3617	30985	c80377_g1,c73259_g1,c80184_g1,c76964_g4,c67670_g2,c79376_g2,c128334_g1,c81928_g3,c5230_g1,c125785_g1,c82785_g1,c77269_g1,c80266_g1,c74452_g4,c73070_g1,c70975_g1,c78856_g1,c74721_g1,c64817_g1
+GO:0004175	endopeptidase activity	molecular_function	0.098237	1	7	106	942	30985	c71972_g1,c33876_g1,c68882_g1,c70869_g1,c80170_g4,c65216_g1,c75191_g1
+GO:0015849	organic acid transport	biological_process	0.09996	1	2	106	140	30985	c80184_g1,c74721_g1
+GO:0046942	carboxylic acid transport	biological_process	0.09996	1	2	106	140	30985	c74721_g1,c80184_g1
+GO:0050877	neurological system process	biological_process	0.10021	1	3	106	313	30985	c74406_g1,c70227_g2,c78856_g1
+GO:0003995	acyl-CoA dehydrogenase activity	molecular_function	0.10082	1	1	106	27	30985	c78398_g1
+GO:0051651	maintenance of location in cell	biological_process	0.10189	1	2	106	129	30985	c73070_g1,c5230_g1
+GO:0015077	monovalent inorganic cation transmembrane transporter activity	molecular_function	0.10199	1	5	106	684	30985	c80184_g1,c76964_g4,c73070_g1,c125785_g1,c74452_g4
+GO:0008509	anion transmembrane transporter activity	molecular_function	0.10268	1	2	106	142	30985	c80184_g1,c74721_g1
+GO:0004565	beta-galactosidase activity	molecular_function	0.10343	1	1	106	23	30985	c76023_g2
+GO:0009341	beta-galactosidase complex	cellular_component	0.10343	1	1	106	23	30985	c76023_g2
+GO:0051235	maintenance of location	biological_process	0.10796	1	2	106	136	30985	c73070_g1,c5230_g1
+GO:0019954	asexual reproduction	biological_process	0.10841	1	2	106	134	30985	c78292_g2,c80170_g4
+GO:0000041	transition metal ion transport	biological_process	0.10906	1	2	106	146	30985	c82785_g1,c5230_g1
+GO:0000272	polysaccharide catabolic process	biological_process	0.11068	1	1	106	30	30985	c34399_g1
+GO:0022891	substrate-specific transmembrane transporter activity	molecular_function	0.11132	1	9	106	1441	30985	c74721_g1,c125785_g1,c80266_g1,c82785_g1,c73259_g1,c74452_g4,c76964_g4,c80184_g1,c73070_g1
+GO:0009404	toxin metabolic process	biological_process	0.11153	1	1	106	36	30985	c80170_g4
+GO:0044550	secondary metabolite biosynthetic process	biological_process	0.11277	1	1	106	33	30985	c80170_g4
+GO:0015297	antiporter activity	molecular_function	0.11316	1	1	106	42	30985	c76964_g4
+GO:0015711	organic anion transport	biological_process	0.11436	1	2	106	153	30985	c80184_g1,c74721_g1
+GO:0022890	inorganic cation transmembrane transporter activity	molecular_function	0.11506	1	6	106	898	30985	c82785_g1,c74452_g4,c76964_g4,c80184_g1,c73070_g1,c125785_g1
+GO:0007606	sensory perception of chemical stimulus	biological_process	0.1159	1	2	106	176	30985	c70227_g2,c74406_g1
+GO:0031301	integral to organelle membrane	cellular_component	0.1172	1	2	106	147	30985	c70975_g1,c78824_g1
+GO:0030436	asexual sporulation	biological_process	0.1174	1	1	106	28	30985	c80170_g4
+GO:0016054	organic acid catabolic process	biological_process	0.11812	1	2	106	168	30985	c66959_g1,c80324_g2
+GO:0046395	carboxylic acid catabolic process	biological_process	0.11812	1	2	106	168	30985	c80324_g2,c66959_g1
+GO:0034220	ion transmembrane transport	biological_process	0.11815	1	4	106	509	30985	c82785_g1,c73070_g1,c74721_g1,c125785_g1
+GO:0042995	cell projection	cellular_component	0.11902	1	2	106	155	30985	c73070_g1,c128334_g1
+GO:0004177	aminopeptidase activity	molecular_function	0.11932	1	1	106	38	30985	c72070_g1
+GO:0001816	cytokine production	biological_process	0.12031	1	1	106	42	30985	c128334_g1
+GO:0006605	protein targeting	biological_process	0.12035	1	3	106	323	30985	c64817_g1,c78856_g1,c67670_g2
+GO:0051273	beta-glucan metabolic process	biological_process	0.12044	1	1	106	46	30985	c34399_g1
+GO:0072594	establishment of protein localization to organelle	biological_process	0.12191	1	2	106	169	30985	c64817_g1,c78856_g1
+GO:0005747	mitochondrial respiratory chain complex I	cellular_component	0.12211	1	1	106	49	30985	c128334_g1
+GO:0030964	NADH dehydrogenase complex	cellular_component	0.12211	1	1	106	49	30985	c128334_g1
+GO:0045271	respiratory chain complex I	cellular_component	0.12211	1	1	106	49	30985	c128334_g1
+GO:0008483	transaminase activity	molecular_function	0.12341	1	1	106	38	30985	c80345_g1
+GO:0048193	Golgi vesicle transport	biological_process	0.12424	1	3	106	336	30985	c78856_g1,c70975_g1,c73070_g1
+GO:0031300	intrinsic to organelle membrane	cellular_component	0.12506	1	2	106	151	30985	c78824_g1,c70975_g1
+GO:0005215	transporter activity	molecular_function	0.12518	1	13	106	2353	30985	c73259_g1,c74452_g4,c77269_g1,c80266_g1,c82785_g1,c80377_g1,c80184_g1,c76964_g4,c73070_g1,c67670_g2,c125785_g1,c74721_g1,c81928_g3
+GO:0009878	nodule morphogenesis	biological_process	0.12527	1	1	106	40	30985	c78856_g1
+GO:0009886	post-embryonic morphogenesis	biological_process	0.12527	1	1	106	40	30985	c78856_g1
+GO:0044111	development involved in symbiotic interaction	biological_process	0.12527	1	1	106	40	30985	c78856_g1
+GO:0043066	negative regulation of apoptotic process	biological_process	0.12587	1	1	106	52	30985	c128334_g1
+GO:0048519	negative regulation of biological process	biological_process	0.12675	1	3	106	363	30985	c128334_g1,c33876_g1,c5230_g1
+GO:0043069	negative regulation of programmed cell death	biological_process	0.12678	1	1	106	53	30985	c128334_g1
+GO:0044282	small molecule catabolic process	biological_process	0.12716	1	2	106	179	30985	c66959_g1,c80324_g2
+GO:0044712	single-organism catabolic process	biological_process	0.12716	1	2	106	179	30985	c66959_g1,c80324_g2
+GO:0015925	galactosidase activity	molecular_function	0.12737	1	1	106	30	30985	c76023_g2
+GO:0009986	cell surface	cellular_component	0.1283	1	1	106	54	30985	c33876_g1
+GO:0007031	peroxisome organization	biological_process	0.13052	1	1	106	34	30985	c64817_g1
+GO:0016769	transferase activity, transferring nitrogenous groups	molecular_function	0.13071	1	1	106	41	30985	c80345_g1
+GO:0007600	sensory perception	biological_process	0.1308	1	2	106	194	30985	c70227_g2,c74406_g1
+GO:0001076	RNA polymerase II transcription factor binding transcription factor activity	molecular_function	0.13218	1	2	106	159	30985	c71858_g1,c71758_g1
+GO:0001104	RNA polymerase II transcription cofactor activity	molecular_function	0.13218	1	2	106	159	30985	c71758_g1,c71858_g1
+GO:0007610	behavior	biological_process	0.13291	1	1	106	47	30985	c71858_g1
+GO:0005730	nucleolus	cellular_component	0.13358	1	3	106	362	30985	c78866_g2,c33876_g1,c78976_g1
+GO:0003918	DNA topoisomerase type II (ATP-hydrolyzing) activity	molecular_function	0.13392	1	1	106	39	30985	c82785_g1
+GO:0061505	DNA topoisomerase II activity	molecular_function	0.13392	1	1	106	39	30985	c82785_g1
+GO:0009791	post-embryonic development	biological_process	0.13416	1	1	106	44	30985	c78856_g1
+GO:0044743	intracellular protein transmembrane import	biological_process	0.13535	1	1	106	45	30985	c64817_g1
+GO:0065002	intracellular protein transmembrane transport	biological_process	0.13535	1	1	106	45	30985	c64817_g1
+GO:0003333	amino acid transmembrane transport	biological_process	0.13661	1	1	106	39	30985	c74721_g1
+GO:0008677	2-dehydropantoate 2-reductase activity	molecular_function	0.13756	1	1	106	43	30985	c81038_g2
+GO:0009636	response to toxic substance	biological_process	0.13853	1	1	106	46	30985	c71758_g1
+GO:0030173	integral to Golgi membrane	cellular_component	0.1402	1	1	106	36	30985	c70975_g1
+GO:0031228	intrinsic to Golgi membrane	cellular_component	0.1402	1	1	106	36	30985	c70975_g1
+GO:0016592	mediator complex	cellular_component	0.14103	1	2	106	164	30985	c71858_g1,c71758_g1
+GO:0008152	metabolic process	biological_process	0.14445	1	65	106	16680	30985	c78398_g1,c125785_g1,c82740_g1,c5230_g1,c78976_g1,c76023_g2,c71758_g1,c72971_g1,c73886_g1,c81319_g1,c70026_g1,c33876_g1,c71858_g1,c63931_g1,c82951_g1,c81339_g1,c79376_g2,c72070_g1,c77857_g2,c80184_g1,c64241_g1,c75576_g1,c70869_g1,c77889_g2,c73070_g1,c77247_g1,c34399_g1,c78866_g2,c76375_g2,c77700_g1,c80706_g1,c72301_g1,c73209_g3,c78449_g1,c77303_g4,c76391_g1,c80324_g2,c65216_g1,c81038_g2,c81298_g1,c68882_g1,c81725_g1,c72253_g1,c70355_g1,c71972_g1,c74877_g1,c55414_g1,c78147_g1,c74106_g1,c77284_g1,c82785_g1,c77269_g1,c76633_g1,c128334_g1,c79008_g2,c79416_g1,c80170_g4,c75191_g1,c74814_g1,c71534_g1,c77453_g2,c77576_g1,c83373_g2,c74059_g5,c66959_g1
+GO:0015370	solute:sodium symporter activity	molecular_function	0.14627	1	1	106	37	30985	c80184_g1
+GO:0065008	regulation of biological quality	biological_process	0.14699	1	6	106	966	30985	c73070_g1,c71858_g1,c5230_g1,c76964_g4,c4845_g1,c128334_g1
+GO:0042277	peptide binding	molecular_function	0.14888	1	1	106	47	30985	c33876_g1
+GO:0007243	intracellular protein kinase cascade	biological_process	0.15312	1	1	106	61	30985	c128334_g1
+GO:0033218	amide binding	molecular_function	0.15604	1	1	106	53	30985	c33876_g1
+GO:0022892	substrate-specific transporter activity	molecular_function	0.16301	1	9	106	1572	30985	c73070_g1,c80184_g1,c76964_g4,c82785_g1,c80266_g1,c74452_g4,c73259_g1,c74721_g1,c125785_g1
+GO:0006812	cation transport	biological_process	0.16545	1	8	106	1418	30985	c128334_g1,c125785_g1,c5230_g1,c74452_g4,c82785_g1,c76964_g4,c80184_g1,c73070_g1
+GO:0071806	protein transmembrane transport	biological_process	0.1666	1	1	106	57	30985	c64817_g1
+GO:0015171	amino acid transmembrane transporter activity	molecular_function	0.16821	1	1	106	50	30985	c74721_g1
+GO:0016702	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	molecular_function	0.16902	1	1	106	56	30985	c66959_g1
+GO:0006566	threonine metabolic process	biological_process	0.17114	1	1	106	48	30985	c80324_g2
+GO:0006570	tyrosine metabolic process	biological_process	0.17211	1	2	106	200	30985	c81319_g1,c66959_g1
+GO:0006027	glycosaminoglycan catabolic process	biological_process	0.1731	1	1	106	45	30985	c76023_g2
+GO:0006302	double-strand break repair	biological_process	0.17318	1	1	106	54	30985	c82951_g1
+GO:0005249	voltage-gated potassium channel activity	molecular_function	0.17391	1	1	106	45	30985	c74452_g4
+GO:0008076	voltage-gated potassium channel complex	cellular_component	0.17391	1	1	106	45	30985	c74452_g4
+GO:0034705	potassium channel complex	cellular_component	0.17391	1	1	106	45	30985	c74452_g4
+GO:0005777	peroxisome	cellular_component	0.17545	1	1	106	54	30985	c64817_g1
+GO:0042579	microbody	cellular_component	0.17545	1	1	106	54	30985	c64817_g1
+GO:0048609	multicellular organismal reproductive process	biological_process	0.1771	1	1	106	75	30985	c71858_g1
+GO:0043934	sporulation	biological_process	0.18008	1	1	106	49	30985	c80170_g4
+GO:0005876	spindle microtubule	cellular_component	0.18098	1	1	106	50	30985	c73070_g1
+GO:0019684	photosynthesis, light reaction	biological_process	0.18543	1	1	106	57	30985	c77269_g1
+GO:0080134	regulation of response to stress	biological_process	0.18603	1	1	106	67	30985	c76369_g1
+GO:0006865	amino acid transport	biological_process	0.18725	1	1	106	58	30985	c74721_g1
+GO:0006544	glycine metabolic process	biological_process	0.189	1	1	106	56	30985	c80324_g2
+GO:0006563	L-serine metabolic process	biological_process	0.18985	1	1	106	57	30985	c80324_g2
+GO:0003712	transcription cofactor activity	molecular_function	0.19208	1	2	106	212	30985	c71858_g1,c71758_g1
+GO:0009893	positive regulation of metabolic process	biological_process	0.1922	1	2	106	248	30985	c82740_g1,c128334_g1
+GO:0019069	viral capsid assembly	biological_process	0.19227	1	1	106	55	30985	c71980_g1
+GO:0000989	transcription factor binding transcription factor activity	molecular_function	0.19285	1	2	106	214	30985	c71858_g1,c71758_g1
+GO:0016755	transferase activity, transferring amino-acyl groups	molecular_function	0.19402	1	1	106	58	30985	c76633_g1
+GO:0005089	Rho guanyl-nucleotide exchange factor activity	molecular_function	0.1945	1	1	106	41	30985	c83373_g2
+GO:0032501	multicellular organismal process	biological_process	0.19554	1	6	106	1103	30985	c78856_g1,c128334_g1,c70227_g2,c74406_g1,c78449_g1,c71858_g1
+GO:0051049	regulation of transport	biological_process	0.19601	1	1	106	71	30985	c128334_g1
+GO:0009877	nodulation	biological_process	0.19681	1	1	106	67	30985	c78856_g1
+GO:0005088	Ras guanyl-nucleotide exchange factor activity	molecular_function	0.19763	1	1	106	42	30985	c83373_g2
+GO:0006022	aminoglycan metabolic process	biological_process	0.19933	1	2	106	208	30985	c76023_g2,c70026_g1
+GO:0019748	secondary metabolic process	biological_process	0.19944	1	1	106	65	30985	c80170_g4
+GO:0015293	symporter activity	molecular_function	0.2008	1	1	106	56	30985	c80184_g1
+GO:0015294	solute:cation symporter activity	molecular_function	0.2008	1	1	106	56	30985	c80184_g1
+GO:0005681	spliceosomal complex	cellular_component	0.20315	1	1	106	64	30985	c70355_g1
+GO:0001539	ciliary or bacterial-type flagellar motility	biological_process	0.20351	1	1	106	56	30985	c73070_g1
+GO:0071973	bacterial-type flagellar cell motility	biological_process	0.20351	1	1	106	56	30985	c73070_g1
+GO:0045893	positive regulation of transcription, DNA-dependent	biological_process	0.20354	1	1	106	73	30985	c82740_g1
+GO:0022843	voltage-gated cation channel activity	molecular_function	0.20802	1	1	106	55	30985	c74452_g4
+GO:0016638	oxidoreductase activity, acting on the CH-NH2 group of donors	molecular_function	0.2096	1	1	106	72	30985	c80324_g2
+GO:0032504	multicellular organism reproduction	biological_process	0.21063	1	1	106	87	30985	c71858_g1
+GO:0006835	dicarboxylic acid transport	biological_process	0.21488	1	1	106	56	30985	c80184_g1
+GO:0004803	transposase activity	molecular_function	0.21555	1	3	106	366	30985	c77576_g1,c77247_g1,c77700_g1
+GO:0019725	cellular homeostasis	biological_process	0.21556	1	2	106	251	30985	c5230_g1,c4845_g1
+GO:0006026	aminoglycan catabolic process	biological_process	0.21723	1	1	106	59	30985	c76023_g2
+GO:0005746	mitochondrial respiratory chain	cellular_component	0.21815	1	1	106	91	30985	c128334_g1
+GO:0034703	cation channel complex	cellular_component	0.22024	1	1	106	59	30985	c74452_g4
+GO:0016645	oxidoreductase activity, acting on the CH-NH group of donors	molecular_function	0.22147	1	1	106	70	30985	c72253_g1
+GO:0034702	ion channel complex	cellular_component	0.22191	1	1	106	60	30985	c74452_g4
+GO:0035091	phosphatidylinositol binding	molecular_function	0.22289	1	1	106	53	30985	c78856_g1
+GO:0006629	lipid metabolic process	biological_process	0.22375	1	6	106	1059	30985	c64241_g1,c76023_g2,c76375_g2,c77889_g2,c73209_g3,c74059_g5
+GO:0005773	vacuole	cellular_component	0.22623	1	1	106	65	30985	c33876_g1
+GO:0008324	cation transmembrane transporter activity	molecular_function	0.22757	1	6	106	1086	30985	c80184_g1,c76964_g4,c73070_g1,c125785_g1,c82785_g1,c74452_g4
+GO:0015078	hydrogen ion transmembrane transporter activity	molecular_function	0.22769	1	3	106	476	30985	c125785_g1,c73070_g1,c76964_g4
+GO:0007015	actin filament organization	biological_process	0.23326	1	1	106	78	30985	c40551_g1
+GO:0070887	cellular response to chemical stimulus	biological_process	0.23669	1	2	106	238	30985	c72971_g1,c66959_g1
+GO:0050909	sensory perception of taste	biological_process	0.23802	1	1	106	88	30985	c70227_g2
+GO:0000150	recombinase activity	molecular_function	0.24013	1	1	106	70	30985	c77247_g1
+GO:0019080	viral genome expression	biological_process	0.24274	1	1	106	68	30985	c81339_g1
+GO:0016701	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	molecular_function	0.24475	1	1	106	88	30985	c66959_g1
+GO:0033179	proton-transporting V-type ATPase, V0 domain	cellular_component	0.24624	1	1	106	76	30985	c73070_g1
+GO:0006687	glycosphingolipid metabolic process	biological_process	0.24649	1	1	106	68	30985	c76023_g2
+GO:0005083	small GTPase regulator activity	molecular_function	0.24665	1	1	106	62	30985	c83373_g2
+GO:0003916	DNA topoisomerase activity	molecular_function	0.25083	1	1	106	82	30985	c82785_g1
+GO:0042537	benzene-containing compound metabolic process	biological_process	0.25209	1	1	106	91	30985	c66959_g1
+GO:0016020	membrane	cellular_component	0.25263	1	30	106	7141	30985	c67670_g2,c128334_g1,c79376_g2,c81928_g3,c82740_g1,c80377_g1,c73259_g1,c80170_g4,c80184_g1,c76964_g4,c82981_g1,c74406_g1,c74439_g1,c78824_g1,c75240_g2,c75576_g1,c74721_g1,c70355_g2,c64817_g1,c80266_g1,c77269_g1,c82785_g1,c70227_g2,c71730_g1,c74452_g4,c71858_g1,c76964_g1,c73070_g1,c33876_g1,c70975_g1
+GO:0006012	galactose metabolic process	biological_process	0.25408	1	1	106	72	30985	c76023_g2
+GO:0008200	ion channel inhibitor activity	molecular_function	0.25522	1	1	106	78	30985	c71038_g1
+GO:0016248	channel inhibitor activity	molecular_function	0.25522	1	1	106	78	30985	c71038_g1
+GO:0005198	structural molecule activity	molecular_function	0.25681	1	7	106	1563	30985	c75576_g1,c63931_g1,c75240_g2,c82785_g1,c71534_g1,c73070_g1,c78292_g2
+GO:0006820	anion transport	biological_process	0.25784	1	2	106	257	30985	c74721_g1,c80184_g1
+GO:0008061	chitin binding	molecular_function	0.25895	1	1	106	74	30985	c70026_g1
+GO:0006265	DNA topological change	biological_process	0.26016	1	1	106	88	30985	c82785_g1
+GO:0030176	integral to endoplasmic reticulum membrane	cellular_component	0.26086	1	1	106	77	30985	c78824_g1
+GO:0006665	sphingolipid metabolic process	biological_process	0.2615	1	1	106	73	30985	c76023_g2
+GO:0008094	DNA-dependent ATPase activity	molecular_function	0.2632	1	1	106	82	30985	c82785_g1
+GO:0051213	dioxygenase activity	molecular_function	0.26592	1	1	106	93	30985	c66959_g1
+GO:0015939	pantothenate metabolic process	biological_process	0.26681	1	1	106	93	30985	c81038_g2
+GO:0015940	pantothenate biosynthetic process	biological_process	0.26681	1	1	106	93	30985	c81038_g2
+GO:0003824	catalytic activity	molecular_function	0.26803	1	50	106	12912	30985	c74814_g1,c70869_g1,c76375_g2,c78866_g2,c72301_g1,c77700_g1,c80706_g1,c77453_g2,c77576_g1,c77247_g1,c34399_g1,c66959_g1,c73070_g1,c74059_g5,c79416_g1,c79008_g2,c128334_g1,c72070_g1,c76633_g1,c80170_g4,c64241_g1,c75191_g1,c77857_g2,c76369_g1,c81725_g1,c73886_g1,c72253_g1,c81319_g1,c68882_g1,c74106_g1,c78147_g1,c82785_g1,c77284_g1,c71972_g1,c55414_g1,c33876_g1,c74877_g1,c76391_g1,c80345_g1,c65216_g1,c81038_g2,c80324_g2,c77303_g4,c78398_g1,c75579_g1,c5230_g1,c72971_g1,c81298_g1,c76023_g2,c78976_g1
+GO:0015994	chlorophyll metabolic process	biological_process	0.26963	1	1	106	90	30985	c5230_g1
+GO:0006558	L-phenylalanine metabolic process	biological_process	0.27051	1	1	106	108	30985	c66959_g1
+GO:1902221	erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	biological_process	0.27051	1	1	106	108	30985	c66959_g1
+GO:0051254	positive regulation of RNA metabolic process	biological_process	0.27107	1	1	106	96	30985	c82740_g1
+GO:0004252	serine-type endopeptidase activity	molecular_function	0.27447	1	2	106	251	30985	c75191_g1,c70869_g1
+GO:0009072	aromatic amino acid family metabolic process	biological_process	0.27456	1	2	106	289	30985	c81319_g1,c66959_g1
+GO:0005244	voltage-gated ion channel activity	molecular_function	0.27695	1	1	106	78	30985	c74452_g4
+GO:0022832	voltage-gated channel activity	molecular_function	0.27695	1	1	106	78	30985	c74452_g4
+GO:0006030	chitin metabolic process	biological_process	0.27777	1	1	106	82	30985	c70026_g1
+GO:1901071	glucosamine-containing compound metabolic process	biological_process	0.27777	1	1	106	82	30985	c70026_g1
+GO:0031227	intrinsic to endoplasmic reticulum membrane	cellular_component	0.27838	1	1	106	81	30985	c78824_g1
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	biological_process	0.27857	1	1	106	101	30985	c82740_g1
+GO:0051173	positive regulation of nitrogen compound metabolic process	biological_process	0.27857	1	1	106	101	30985	c82740_g1
+GO:0009288	bacterial-type flagellum	cellular_component	0.28187	1	1	106	80	30985	c73070_g1
+GO:0004725	protein tyrosine phosphatase activity	molecular_function	0.28354	1	1	106	67	30985	c81319_g1
+GO:0019068	virion assembly	biological_process	0.28586	1	1	106	90	30985	c71980_g1
+GO:0005615	extracellular space	cellular_component	0.28964	1	2	106	280	30985	c64419_g2,c33876_g1
+GO:0071704	organic substance metabolic process	biological_process	0.29179	1	55	106	14203	30985	c71758_g1,c72971_g1,c76023_g2,c81298_g1,c78976_g1,c81038_g2,c65216_g1,c80324_g2,c125785_g1,c73209_g3,c78449_g1,c77303_g4,c82740_g1,c5230_g1,c82951_g1,c63931_g1,c77284_g1,c82785_g1,c71972_g1,c71858_g1,c55414_g1,c33876_g1,c74877_g1,c70355_g1,c81319_g1,c70026_g1,c68882_g1,c64241_g1,c80170_g4,c75191_g1,c80184_g1,c77857_g2,c72070_g1,c79008_g2,c128334_g1,c81339_g1,c79376_g2,c76633_g1,c76375_g2,c78866_g2,c72301_g1,c77700_g1,c77453_g2,c77576_g1,c83373_g2,c71534_g1,c66959_g1,c77247_g1,c34399_g1,c74059_g5,c73070_g1,c70869_g1,c74814_g1,c75576_g1,c77889_g2
+GO:1901136	carbohydrate derivative catabolic process	biological_process	0.29338	1	2	106	250	30985	c83373_g2,c76023_g2
+GO:0003899	DNA-directed RNA polymerase activity	molecular_function	0.29537	1	2	106	304	30985	c78866_g2,c78976_g1
+GO:0008137	NADH dehydrogenase (ubiquinone) activity	molecular_function	0.29901	1	1	106	95	30985	c128334_g1
+GO:0050136	NADH dehydrogenase (quinone) activity	molecular_function	0.29967	1	1	106	96	30985	c128334_g1
+GO:0008608	attachment of spindle microtubules to kinetochore	biological_process	0.30053	1	1	106	88	30985	c73070_g1
+GO:0050790	regulation of catalytic activity	biological_process	0.30226	1	2	106	303	30985	c33876_g1,c83373_g2
+GO:0042981	regulation of apoptotic process	biological_process	0.30287	1	1	106	119	30985	c128334_g1
+GO:0043067	regulation of programmed cell death	biological_process	0.30287	1	1	106	119	30985	c128334_g1
+GO:0010557	positive regulation of macromolecule biosynthetic process	biological_process	0.30309	1	1	106	113	30985	c82740_g1
+GO:0004888	transmembrane signaling receptor activity	molecular_function	0.3035	1	3	106	453	30985	c74406_g1,c82740_g1,c128334_g1
+GO:0032879	regulation of localization	biological_process	0.30355	1	1	106	121	30985	c128334_g1
+GO:0031328	positive regulation of cellular biosynthetic process	biological_process	0.30372	1	1	106	113	30985	c82740_g1
+GO:0007187	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	biological_process	0.30441	1	1	106	106	30985	c128334_g1
+GO:0030029	actin filament-based process	biological_process	0.30588	1	1	106	104	30985	c40551_g1
+GO:0030036	actin cytoskeleton organization	biological_process	0.30588	1	1	106	104	30985	c40551_g1
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	biological_process	0.30697	1	1	106	99	30985	c128334_g1
+GO:0044707	single-multicellular organism process	biological_process	0.30778	1	5	106	1028	30985	c78449_g1,c74406_g1,c78856_g1,c70227_g2,c128334_g1
+GO:0005267	potassium channel activity	molecular_function	0.30848	1	1	106	86	30985	c74452_g4
+GO:0009891	positive regulation of biosynthetic process	biological_process	0.30886	1	1	106	117	30985	c82740_g1
+GO:0005085	guanyl-nucleotide exchange factor activity	molecular_function	0.31192	1	1	106	74	30985	c83373_g2
+GO:0016791	phosphatase activity	molecular_function	0.31227	1	2	106	251	30985	c72971_g1,c81319_g1
+GO:0033365	protein localization to organelle	biological_process	0.31244	1	2	106	307	30985	c64817_g1,c78856_g1
+GO:0016247	channel regulator activity	molecular_function	0.31391	1	1	106	101	30985	c71038_g1
+GO:0031514	motile cilium	cellular_component	0.31396	1	1	106	93	30985	c73070_g1
+GO:0005929	cilium	cellular_component	0.31478	1	1	106	94	30985	c73070_g1
+GO:0005381	iron ion transmembrane transporter activity	molecular_function	0.31874	1	1	106	95	30985	c82785_g1
+GO:0000988	protein binding transcription factor activity	molecular_function	0.31976	1	2	106	310	30985	c71858_g1,c71758_g1
+GO:0006810	transport	biological_process	0.32042	1	20	106	4755	30985	c82785_g1,c80266_g1,c77269_g1,c74452_g4,c73070_g1,c70975_g1,c78856_g1,c74721_g1,c64817_g1,c80377_g1,c73259_g1,c80184_g1,c76964_g4,c67670_g2,c79376_g2,c128334_g1,c71038_g1,c81928_g3,c5230_g1,c125785_g1
+GO:0051234	establishment of localization	biological_process	0.32329	1	20	106	4764	30985	c74452_g4,c77269_g1,c80266_g1,c82785_g1,c70975_g1,c73070_g1,c78856_g1,c64817_g1,c74721_g1,c73259_g1,c80377_g1,c76964_g4,c80184_g1,c128334_g1,c79376_g2,c67670_g2,c125785_g1,c5230_g1,c81928_g3,c71038_g1
+GO:0016485	protein processing	biological_process	0.32516	1	1	106	104	30985	c81339_g1
+GO:0051604	protein maturation	biological_process	0.32516	1	1	106	104	30985	c81339_g1
+GO:0008289	lipid binding	molecular_function	0.32715	1	2	106	301	30985	c78856_g1,c71652_g1
+GO:0006313	transposition, DNA-mediated	biological_process	0.32742	1	3	106	486	30985	c77700_g1,c77247_g1,c77576_g1
+GO:0032196	transposition	biological_process	0.32742	1	3	106	486	30985	c77247_g1,c77576_g1,c77700_g1
+GO:0003954	NADH dehydrogenase activity	molecular_function	0.32873	1	1	106	107	30985	c128334_g1
+GO:0052689	carboxylic ester hydrolase activity	molecular_function	0.32974	1	1	106	95	30985	c81725_g1
+GO:0034453	microtubule anchoring	biological_process	0.33002	1	1	106	96	30985	c73070_g1
+GO:0097367	carbohydrate derivative binding	molecular_function	0.33138	1	1	106	109	30985	c70026_g1
+GO:0006040	amino sugar metabolic process	biological_process	0.33292	1	1	106	107	30985	c70026_g1
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	biological_process	0.33459	1	1	106	104	30985	c70355_g1
+GO:0000398	mRNA splicing, via spliceosome	biological_process	0.33459	1	1	106	104	30985	c70355_g1
+GO:0044763	single-organism cellular process	biological_process	0.33548	1	33	106	8023	30985	c70975_g1,c33876_g1,c71858_g1,c82951_g1,c82785_g1,c77269_g1,c80266_g1,c78976_g1,c76964_g4,c72971_g1,c125785_g1,c82740_g1,c40551_g1,c78292_g2,c5230_g1,c67670_g2,c64419_g2,c77576_g1,c73070_g1,c77247_g1,c66959_g1,c81217_g1,c77700_g1,c74721_g1,c64817_g1,c4845_g1,c78856_g1,c74406_g1,c73259_g1,c80377_g1,c81928_g3,c79376_g2,c128334_g1
+GO:0030001	metal ion transport	biological_process	0.33668	1	4	106	759	30985	c5230_g1,c82785_g1,c74452_g4,c128334_g1
+GO:0065009	regulation of molecular function	biological_process	0.3372	1	2	106	330	30985	c83373_g2,c33876_g1
+GO:0006743	ubiquinone metabolic process	biological_process	0.33774	1	1	106	112	30985	c128334_g1
+GO:0006744	ubiquinone biosynthetic process	biological_process	0.33774	1	1	106	112	30985	c128334_g1
+GO:0046873	metal ion transmembrane transporter activity	molecular_function	0.33806	1	3	106	516	30985	c80184_g1,c74452_g4,c82785_g1
+GO:0015079	potassium ion transmembrane transporter activity	molecular_function	0.33841	1	1	106	105	30985	c74452_g4
+GO:0000139	Golgi membrane	cellular_component	0.3393	1	1	106	107	30985	c70975_g1
+GO:0003993	acid phosphatase activity	molecular_function	0.34001	1	1	106	83	30985	c72971_g1
+GO:0019497	hexachlorocyclohexane metabolic process	biological_process	0.34001	1	1	106	83	30985	c72971_g1
+GO:0042375	quinone cofactor metabolic process	biological_process	0.34185	1	1	106	113	30985	c128334_g1
+GO:0045426	quinone cofactor biosynthetic process	biological_process	0.34185	1	1	106	113	30985	c128334_g1
+GO:0007186	G-protein coupled receptor signaling pathway	biological_process	0.34222	1	3	106	507	30985	c128334_g1,c74406_g1,c82740_g1
+GO:1901661	quinone metabolic process	biological_process	0.3435	1	1	106	115	30985	c128334_g1
+GO:1901663	quinone biosynthetic process	biological_process	0.3435	1	1	106	115	30985	c128334_g1
+GO:0004721	phosphoprotein phosphatase activity	molecular_function	0.34472	1	1	106	91	30985	c81319_g1
+GO:0033124	regulation of GTP catabolic process	biological_process	0.35029	1	1	106	86	30985	c83373_g2
+GO:0043087	regulation of GTPase activity	biological_process	0.35029	1	1	106	86	30985	c83373_g2
+GO:0046983	protein dimerization activity	molecular_function	0.3512	1	3	106	559	30985	c71695_g2,c68422_g1,c77700_g1
+GO:0042196	chlorinated hydrocarbon metabolic process	biological_process	0.35134	1	1	106	88	30985	c72971_g1
+GO:0042197	halogenated hydrocarbon metabolic process	biological_process	0.35134	1	1	106	88	30985	c72971_g1
+GO:0042181	ketone biosynthetic process	biological_process	0.3516	1	1	106	120	30985	c128334_g1
+GO:0000375	RNA splicing, via transesterification reactions	biological_process	0.35162	1	1	106	110	30985	c70355_g1
+GO:0005886	plasma membrane	cellular_component	0.35315	1	3	106	591	30985	c33876_g1,c128334_g1,c74452_g4
+GO:0044699	single-organism process	biological_process	0.35328	1	38	106	9487	30985	c81928_g3,c79376_g2,c128334_g1,c80184_g1,c74406_g1,c80377_g1,c80170_g4,c73259_g1,c74721_g1,c64817_g1,c4845_g1,c78856_g1,c73070_g1,c77247_g1,c66959_g1,c77576_g1,c77700_g1,c74452_g4,c81217_g1,c78292_g2,c40551_g1,c5230_g1,c125785_g1,c78449_g1,c82740_g1,c67670_g2,c64419_g2,c76964_g4,c78976_g1,c72971_g1,c33876_g1,c71858_g1,c70975_g1,c82785_g1,c80266_g1,c77269_g1,c82951_g1,c70227_g2
+GO:0019031	viral envelope	cellular_component	0.35333	1	2	106	308	30985	c73070_g1,c78292_g2
+GO:0036338	viral membrane	cellular_component	0.35333	1	2	106	308	30985	c78292_g2,c73070_g1
+GO:0043093	cytokinesis by binary fission	biological_process	0.35453	1	1	106	106	30985	c78292_g2
+GO:0006952	defense response	biological_process	0.35566	1	2	106	372	30985	c66212_g1,c71038_g1
+GO:0019318	hexose metabolic process	biological_process	0.35611	1	2	106	374	30985	c77857_g2,c76023_g2
+GO:0032505	reproduction of a single-celled organism	biological_process	0.36171	1	1	106	110	30985	c78292_g2
+GO:0006470	protein dephosphorylation	biological_process	0.36318	1	1	106	99	30985	c81319_g1
+GO:0016655	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	molecular_function	0.36351	1	1	106	120	30985	c128334_g1
+GO:0015081	sodium ion transmembrane transporter activity	molecular_function	0.36696	1	1	106	113	30985	c80184_g1
+GO:0009523	photosystem II	cellular_component	0.36726	1	1	106	140	30985	c77269_g1
+GO:0033176	proton-transporting V-type ATPase complex	cellular_component	0.36891	1	1	106	116	30985	c73070_g1
+GO:0048522	positive regulation of cellular process	biological_process	0.37106	1	2	106	398	30985	c82740_g1,c128334_g1
+GO:0038023	signaling receptor activity	molecular_function	0.37301	1	3	106	528	30985	c82740_g1,c74406_g1,c128334_g1
+GO:0007268	synaptic transmission	biological_process	0.37505	1	1	106	113	30985	c78856_g1
+GO:0048037	cofactor binding	molecular_function	0.37524	1	4	106	842	30985	c80324_g2,c128334_g1,c80345_g1,c78398_g1
+GO:0005996	monosaccharide metabolic process	biological_process	0.37543	1	2	106	389	30985	c76023_g2,c77857_g2
+GO:0042180	cellular ketone metabolic process	biological_process	0.37552	1	1	106	133	30985	c128334_g1
+GO:0044459	plasma membrane part	cellular_component	0.37711	1	2	106	355	30985	c74452_g4,c33876_g1
+GO:0000917	barrier septum assembly	biological_process	0.37771	1	1	106	116	30985	c78292_g2
+GO:0032506	cytokinetic process	biological_process	0.37771	1	1	106	116	30985	c78292_g2
+GO:0090529	cell septum assembly	biological_process	0.37771	1	1	106	116	30985	c78292_g2
+GO:0009118	regulation of nucleoside metabolic process	biological_process	0.38004	1	1	106	104	30985	c83373_g2
+GO:0030811	regulation of nucleotide catabolic process	biological_process	0.38004	1	1	106	104	30985	c83373_g2
+GO:0033121	regulation of purine nucleotide catabolic process	biological_process	0.38004	1	1	106	104	30985	c83373_g2
+GO:0000942	condensed nuclear chromosome outer kinetochore	cellular_component	0.38032	1	1	106	117	30985	c73070_g1
+GO:0042729	DASH complex	cellular_component	0.38032	1	1	106	117	30985	c73070_g1
+GO:0006935	chemotaxis	biological_process	0.38068	1	1	106	135	30985	c73070_g1
+GO:0006771	riboflavin metabolic process	biological_process	0.38113	1	1	106	98	30985	c72971_g1
+GO:0042726	flavin-containing compound metabolic process	biological_process	0.38113	1	1	106	98	30985	c72971_g1
+GO:0000778	condensed nuclear chromosome kinetochore	cellular_component	0.38118	1	1	106	118	30985	c73070_g1
+GO:0000780	condensed nuclear chromosome, centromeric region	cellular_component	0.38118	1	1	106	118	30985	c73070_g1
+GO:0019226	transmission of nerve impulse	biological_process	0.38244	1	1	106	120	30985	c78856_g1
+GO:0035637	multicellular organismal signaling	biological_process	0.38244	1	1	106	120	30985	c78856_g1
+GO:1900542	regulation of purine nucleotide metabolic process	biological_process	0.38272	1	1	106	105	30985	c83373_g2
+GO:0006818	hydrogen transport	biological_process	0.38517	1	3	106	627	30985	c128334_g1,c73070_g1,c125785_g1
+GO:0015992	proton transport	biological_process	0.38517	1	3	106	627	30985	c125785_g1,c73070_g1,c128334_g1
+GO:0006140	regulation of nucleotide metabolic process	biological_process	0.38592	1	1	106	106	30985	c83373_g2
+GO:0022414	reproductive process	biological_process	0.3879	1	1	106	158	30985	c71858_g1
+GO:0032403	protein complex binding	molecular_function	0.38938	1	1	106	127	30985	c33876_g1
+GO:0019538	protein metabolic process	biological_process	0.39012	1	19	106	4821	30985	c63931_g1,c76375_g2,c71534_g1,c77453_g2,c71972_g1,c74059_g5,c33876_g1,c75576_g1,c70869_g1,c81319_g1,c68882_g1,c81298_g1,c80170_g4,c75191_g1,c81339_g1,c72070_g1,c65216_g1,c78449_g1,c76633_g1
+GO:0007267	cell-cell signaling	biological_process	0.39048	1	1	106	122	30985	c78856_g1
+GO:0044421	extracellular region part	cellular_component	0.39166	1	3	106	601	30985	c33876_g1,c81217_g1,c64419_g2
+GO:0043604	amide biosynthetic process	biological_process	0.39188	1	1	106	139	30985	c81038_g2
+GO:0044710	single-organism metabolic process	biological_process	0.39211	1	22	106	5845	30985	c74059_g5,c66959_g1,c83373_g2,c78866_g2,c76375_g2,c77889_g2,c81319_g1,c72253_g1,c78976_g1,c80170_g4,c76023_g2,c64241_g1,c72971_g1,c5230_g1,c125785_g1,c73209_g3,c78398_g1,c80324_g2,c81038_g2,c128334_g1,c79416_g1,c76391_g1
+GO:0042330	taxis	biological_process	0.39215	1	1	106	138	30985	c73070_g1
+GO:0019067	viral assembly, maturation, egress, and release	biological_process	0.39407	1	1	106	131	30985	c71980_g1
+GO:0030203	glycosaminoglycan metabolic process	biological_process	0.39437	1	1	106	126	30985	c76023_g2
+GO:0019058	viral infectious cycle	biological_process	0.39488	1	2	106	351	30985	c71980_g1,c81339_g1
+GO:0006206	pyrimidine nucleobase metabolic process	biological_process	0.3985	1	2	106	402	30985	c78976_g1,c78866_g2
+GO:0008380	RNA splicing	biological_process	0.40705	1	1	106	132	30985	c70355_g1
+GO:0009108	coenzyme biosynthetic process	biological_process	0.40839	1	2	106	393	30985	c128334_g1,c81038_g2
+GO:1901575	organic substance catabolic process	biological_process	0.41096	1	6	106	1367	30985	c78449_g1,c83373_g2,c66959_g1,c34399_g1,c76023_g2,c80324_g2
+GO:0016491	oxidoreductase activity	molecular_function	0.41138	1	9	106	2421	30985	c66959_g1,c80324_g2,c81038_g2,c72253_g1,c76391_g1,c128334_g1,c79416_g1,c5230_g1,c78398_g1
+GO:0051179	localization	biological_process	0.41226	1	20	106	4998	30985	c64817_g1,c74721_g1,c78856_g1,c70975_g1,c73070_g1,c74452_g4,c82785_g1,c80266_g1,c77269_g1,c125785_g1,c81928_g3,c71038_g1,c5230_g1,c79376_g2,c128334_g1,c67670_g2,c76964_g4,c80184_g1,c73259_g1,c80377_g1
+GO:0046915	transition metal ion transmembrane transporter activity	molecular_function	0.41296	1	1	106	135	30985	c82785_g1
+GO:0032507	maintenance of protein location in cell	biological_process	0.41413	1	1	106	127	30985	c73070_g1
+GO:0016407	acetyltransferase activity	molecular_function	0.41465	1	1	106	148	30985	c77453_g2
+GO:0044238	primary metabolic process	biological_process	0.41854	1	51	106	13571	30985	c81339_g1,c79376_g2,c79008_g2,c72070_g1,c76633_g1,c80170_g4,c64241_g1,c75191_g1,c77857_g2,c80184_g1,c75576_g1,c70869_g1,c74814_g1,c77889_g2,c78866_g2,c76375_g2,c77700_g1,c72301_g1,c71534_g1,c77453_g2,c77576_g1,c83373_g2,c73070_g1,c74059_g5,c66959_g1,c77247_g1,c34399_g1,c80324_g2,c81038_g2,c65216_g1,c73209_g3,c125785_g1,c78449_g1,c77303_g4,c82740_g1,c81298_g1,c76023_g2,c71758_g1,c78976_g1,c81319_g1,c70355_g1,c68882_g1,c63931_g1,c82951_g1,c77284_g1,c82785_g1,c71972_g1,c33876_g1,c74877_g1,c71858_g1,c55414_g1
+GO:0006767	water-soluble vitamin metabolic process	biological_process	0.41875	1	2	106	372	30985	c81038_g2,c72971_g1
+GO:0045185	maintenance of protein location	biological_process	0.4189	1	1	106	130	30985	c73070_g1
+GO:0006766	vitamin metabolic process	biological_process	0.42011	1	2	106	373	30985	c81038_g2,c72971_g1
+GO:0048518	positive regulation of biological process	biological_process	0.42024	1	2	106	441	30985	c82740_g1,c128334_g1
+GO:0016853	isomerase activity	molecular_function	0.42374	1	2	106	426	30985	c82785_g1,c77284_g1
+GO:0015672	monovalent inorganic cation transport	biological_process	0.42543	1	4	106	908	30985	c128334_g1,c74452_g4,c73070_g1,c125785_g1
+GO:0040007	growth	biological_process	0.42704	1	1	106	150	30985	c64419_g2
+GO:0006094	gluconeogenesis	biological_process	0.4295	1	1	106	189	30985	c77857_g2
+GO:0019319	hexose biosynthetic process	biological_process	0.4295	1	1	106	189	30985	c77857_g2
+GO:0034062	RNA polymerase activity	molecular_function	0.42972	1	2	106	409	30985	c78976_g1,c78866_g2
+GO:0042578	phosphoric ester hydrolase activity	molecular_function	0.43018	1	2	106	338	30985	c81319_g1,c72971_g1
+GO:0046364	monosaccharide biosynthetic process	biological_process	0.43116	1	1	106	190	30985	c77857_g2
+GO:0006778	porphyrin-containing compound metabolic process	biological_process	0.4321	1	1	106	152	30985	c5230_g1
+GO:0016311	dephosphorylation	biological_process	0.43293	1	1	106	126	30985	c81319_g1
+GO:0004872	receptor activity	molecular_function	0.43305	1	3	106	598	30985	c82740_g1,c74406_g1,c128334_g1
+GO:0046907	intracellular transport	biological_process	0.43312	1	5	106	1139	30985	c78856_g1,c67670_g2,c70975_g1,c73070_g1,c64817_g1
+GO:0070469	respiratory chain	cellular_component	0.43377	1	1	106	192	30985	c128334_g1
+GO:0022804	active transmembrane transporter activity	molecular_function	0.43689	1	2	106	388	30985	c76964_g4,c80184_g1
+GO:0008238	exopeptidase activity	molecular_function	0.43733	1	1	106	161	30985	c72070_g1
+GO:0006184	GTP catabolic process	biological_process	0.43957	1	1	106	122	30985	c83373_g2
+GO:1901069	guanosine-containing compound catabolic process	biological_process	0.44017	1	1	106	123	30985	c83373_g2
+GO:0044431	Golgi apparatus part	cellular_component	0.44045	1	1	106	148	30985	c70975_g1
+GO:0046903	secretion	biological_process	0.44054	1	1	106	166	30985	c128334_g1
+GO:0000940	condensed chromosome outer kinetochore	cellular_component	0.44114	1	1	106	143	30985	c73070_g1
+GO:0016192	vesicle-mediated transport	biological_process	0.44257	1	3	106	654	30985	c70975_g1,c73070_g1,c78856_g1
+GO:0000910	cytokinesis	biological_process	0.44285	1	1	106	147	30985	c78292_g2
+GO:0006310	DNA recombination	biological_process	0.44409	1	4	106	845	30985	c77576_g1,c77247_g1,c79376_g2,c77700_g1
+GO:0005578	proteinaceous extracellular matrix	cellular_component	0.44714	1	1	106	161	30985	c81217_g1
+GO:0000794	condensed nuclear chromosome	cellular_component	0.44728	1	1	106	148	30985	c73070_g1
+GO:0007059	chromosome segregation	biological_process	0.45074	1	1	106	155	30985	c73070_g1
+GO:0000777	condensed chromosome kinetochore	cellular_component	0.45176	1	1	106	148	30985	c73070_g1
+GO:0000779	condensed chromosome, centromeric region	cellular_component	0.45176	1	1	106	148	30985	c73070_g1
+GO:0016831	carboxy-lyase activity	molecular_function	0.45198	1	1	106	171	30985	c77857_g2
+GO:0042254	ribosome biogenesis	biological_process	0.45296	1	4	106	1113	30985	c75576_g1,c63931_g1,c77700_g1,c71534_g1
+GO:0017038	protein import	biological_process	0.45337	1	1	106	161	30985	c64817_g1
+GO:0005739	mitochondrion	cellular_component	0.4551	1	3	106	764	30985	c33876_g1,c5230_g1,c128334_g1
+GO:0003779	actin binding	molecular_function	0.45979	1	1	106	156	30985	c40551_g1
+GO:0032502	developmental process	biological_process	0.45993	1	3	106	688	30985	c78449_g1,c78856_g1,c80170_g4
+GO:0008299	isoprenoid biosynthetic process	biological_process	0.46221	1	1	106	148	30985	c77889_g2
+GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	biological_process	0.46234	1	1	106	168	30985	c73070_g1
+GO:0015991	ATP hydrolysis coupled proton transport	biological_process	0.46234	1	1	106	168	30985	c73070_g1
+GO:0007275	multicellular organismal development	biological_process	0.46336	1	2	106	449	30985	c78856_g1,c78449_g1
+GO:0006720	isoprenoid metabolic process	biological_process	0.46403	1	1	106	151	30985	c77889_g2
+GO:0009057	macromolecule catabolic process	biological_process	0.46405	1	3	106	653	30985	c76023_g2,c78449_g1,c34399_g1
+GO:0072527	pyrimidine-containing compound metabolic process	biological_process	0.46409	1	2	106	453	30985	c78866_g2,c78976_g1
+GO:0051336	regulation of hydrolase activity	biological_process	0.46518	1	1	106	159	30985	c83373_g2
+GO:0051641	cellular localization	biological_process	0.46629	1	6	106	1444	30985	c70975_g1,c73070_g1,c64817_g1,c5230_g1,c78856_g1,c67670_g2
+GO:0004386	helicase activity	molecular_function	0.46892	1	2	106	375	30985	c75191_g1,c82785_g1
+GO:0022613	ribonucleoprotein complex biogenesis	biological_process	0.47196	1	4	106	1134	30985	c71534_g1,c77700_g1,c63931_g1,c75576_g1
+GO:0015276	ligand-gated ion channel activity	molecular_function	0.47457	1	1	106	136	30985	c74452_g4
+GO:0022834	ligand-gated channel activity	molecular_function	0.47457	1	1	106	136	30985	c74452_g4
+GO:0005874	microtubule	cellular_component	0.47581	1	1	106	158	30985	c73070_g1
+GO:0009521	photosystem	cellular_component	0.47765	1	1	106	195	30985	c77269_g1
+GO:0055114	oxidation-reduction process	biological_process	0.47779	1	9	106	2560	30985	c5230_g1,c78398_g1,c72253_g1,c81038_g2,c80324_g2,c128334_g1,c76391_g1,c79416_g1,c66959_g1
+GO:0044454	nuclear chromosome part	cellular_component	0.48004	1	1	106	173	30985	c73070_g1
+GO:0042802	identical protein binding	molecular_function	0.48129	1	1	106	191	30985	c4845_g1
+GO:0050878	regulation of body fluid levels	biological_process	0.48218	1	1	106	164	30985	c128334_g1
+GO:0005179	hormone activity	molecular_function	0.4839	1	1	106	179	30985	c71858_g1
+GO:0019028	viral capsid	cellular_component	0.48672	1	2	106	432	30985	c78292_g2,c73070_g1
+GO:0000776	kinetochore	cellular_component	0.48817	1	1	106	170	30985	c73070_g1
+GO:0009143	nucleoside triphosphate catabolic process	biological_process	0.49258	1	1	106	147	30985	c83373_g2
+GO:0009146	purine nucleoside triphosphate catabolic process	biological_process	0.49258	1	1	106	147	30985	c83373_g2
+GO:0009203	ribonucleoside triphosphate catabolic process	biological_process	0.49258	1	1	106	147	30985	c83373_g2
+GO:0009207	purine ribonucleoside triphosphate catabolic process	biological_process	0.49258	1	1	106	147	30985	c83373_g2
+GO:0005576	extracellular region	cellular_component	0.49267	1	6	106	1508	30985	c33876_g1,c71038_g1,c71858_g1,c64419_g2,c70026_g1,c81217_g1
+GO:0003774	motor activity	molecular_function	0.49309	1	1	106	158	30985	c73070_g1
+GO:0006152	purine nucleoside catabolic process	biological_process	0.49312	1	1	106	148	30985	c83373_g2
+GO:0046130	purine ribonucleoside catabolic process	biological_process	0.49312	1	1	106	148	30985	c83373_g2
+GO:0043228	non-membrane-bounded organelle	cellular_component	0.49424	1	10	106	2813	30985	c71534_g1,c78976_g1,c33876_g1,c73070_g1,c78866_g2,c63931_g1,c82785_g1,c77700_g1,c75576_g1,c128334_g1
+GO:0043232	intracellular non-membrane-bounded organelle	cellular_component	0.49424	1	10	106	2813	30985	c75576_g1,c128334_g1,c73070_g1,c33876_g1,c71534_g1,c78976_g1,c77700_g1,c82785_g1,c63931_g1,c78866_g2
+GO:0009154	purine ribonucleotide catabolic process	biological_process	0.49714	1	1	106	150	30985	c83373_g2
+GO:0009261	ribonucleotide catabolic process	biological_process	0.49714	1	1	106	150	30985	c83373_g2
+GO:0005819	spindle	cellular_component	0.50012	1	1	106	175	30985	c73070_g1
+GO:0005794	Golgi apparatus	cellular_component	0.50127	1	1	106	190	30985	c70975_g1
+GO:0006813	potassium ion transport	biological_process	0.50182	1	1	106	175	30985	c74452_g4
+GO:0009164	nucleoside catabolic process	biological_process	0.50207	1	1	106	153	30985	c83373_g2
+GO:0042454	ribonucleoside catabolic process	biological_process	0.50207	1	1	106	153	30985	c83373_g2
+GO:1901658	glycosyl compound catabolic process	biological_process	0.50262	1	1	106	154	30985	c83373_g2
+GO:0004222	metalloendopeptidase activity	molecular_function	0.50309	1	1	106	175	30985	c68882_g1
+GO:0005509	calcium ion binding	molecular_function	0.50379	1	2	106	457	30985	c81217_g1,c71652_g1
+GO:0007010	cytoskeleton organization	biological_process	0.50403	1	2	106	442	30985	c73070_g1,c40551_g1
+GO:0015985	energy coupled proton transport, down electrochemical gradient	biological_process	0.50431	1	1	106	191	30985	c125785_g1
+GO:0015986	ATP synthesis coupled proton transport	biological_process	0.50431	1	1	106	191	30985	c125785_g1
+GO:0034357	photosynthetic membrane	cellular_component	0.50451	1	1	106	214	30985	c77269_g1
+GO:0071103	DNA conformation change	biological_process	0.5047	1	1	106	204	30985	c82785_g1
+GO:0003735	structural constituent of ribosome	molecular_function	0.50778	1	3	106	913	30985	c71534_g1,c75576_g1,c63931_g1
+GO:0048870	cell motility	biological_process	0.50814	1	1	106	196	30985	c73070_g1
+GO:0051674	localization of cell	biological_process	0.50814	1	1	106	196	30985	c73070_g1
+GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	molecular_function	0.50858	1	1	106	201	30985	c78398_g1
+GO:0004857	enzyme inhibitor activity	molecular_function	0.51094	1	1	106	211	30985	c75876_g1
+GO:0016482	cytoplasmic transport	biological_process	0.51122	1	2	106	490	30985	c78856_g1,c64817_g1
+GO:0051186	cofactor metabolic process	biological_process	0.5116	1	3	106	752	30985	c128334_g1,c81038_g2,c5230_g1
+GO:0046039	GTP metabolic process	biological_process	0.5157	1	1	106	159	30985	c83373_g2
+GO:0005216	ion channel activity	molecular_function	0.51919	1	2	106	394	30985	c73259_g1,c74452_g4
+GO:0022838	substrate-specific channel activity	molecular_function	0.51956	1	2	106	395	30985	c73259_g1,c74452_g4
+GO:0031012	extracellular matrix	cellular_component	0.51964	1	1	106	192	30985	c81217_g1
+GO:0006195	purine nucleotide catabolic process	biological_process	0.52022	1	1	106	168	30985	c83373_g2
+GO:0072523	purine-containing compound catabolic process	biological_process	0.52074	1	1	106	169	30985	c83373_g2
+GO:0000228	nuclear chromosome	cellular_component	0.52107	1	1	106	197	30985	c73070_g1
+GO:0033013	tetrapyrrole metabolic process	biological_process	0.52209	1	1	106	207	30985	c5230_g1
+GO:0006754	ATP biosynthetic process	biological_process	0.52466	1	1	106	203	30985	c125785_g1
+GO:0000793	condensed chromosome	cellular_component	0.52523	1	1	106	189	30985	c73070_g1
+GO:0005887	integral to plasma membrane	cellular_component	0.52604	1	1	106	188	30985	c74452_g4
+GO:0015267	channel activity	molecular_function	0.5262	1	2	106	406	30985	c74452_g4,c73259_g1
+GO:0022803	passive transmembrane transporter activity	molecular_function	0.5262	1	2	106	406	30985	c74452_g4,c73259_g1
+GO:0043170	macromolecule metabolic process	biological_process	0.52644	1	41	106	11035	30985	c75191_g1,c80170_g4,c80184_g1,c72070_g1,c79008_g2,c128334_g1,c81339_g1,c79376_g2,c76633_g1,c77700_g1,c76375_g2,c78866_g2,c77247_g1,c34399_g1,c73070_g1,c74059_g5,c77453_g2,c77576_g1,c71534_g1,c75576_g1,c70869_g1,c71758_g1,c81298_g1,c76023_g2,c78976_g1,c65216_g1,c77303_g4,c78449_g1,c82740_g1,c125785_g1,c82785_g1,c82951_g1,c63931_g1,c71858_g1,c55414_g1,c33876_g1,c71972_g1,c70355_g1,c81319_g1,c70026_g1,c68882_g1
+GO:0051649	establishment of localization in cell	biological_process	0.52673	1	5	106	1282	30985	c78856_g1,c67670_g2,c70975_g1,c73070_g1,c64817_g1
+GO:0016830	carbon-carbon lyase activity	molecular_function	0.52845	1	1	106	228	30985	c77857_g2
+GO:0006955	immune response	biological_process	0.53067	1	1	106	225	30985	c5230_g1
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	biological_process	0.53102	1	1	106	225	30985	c128334_g1
+GO:1901068	guanosine-containing compound metabolic process	biological_process	0.53144	1	1	106	166	30985	c83373_g2
+GO:0006511	ubiquitin-dependent protein catabolic process	biological_process	0.53331	1	1	106	197	30985	c78449_g1
+GO:0005783	endoplasmic reticulum	cellular_component	0.53403	1	2	106	479	30985	c73259_g1,c78824_g1
+GO:0019941	modification-dependent protein catabolic process	biological_process	0.53433	1	1	106	198	30985	c78449_g1
+GO:0043632	modification-dependent macromolecule catabolic process	biological_process	0.53433	1	1	106	198	30985	c78449_g1
+GO:0030695	GTPase regulator activity	molecular_function	0.53442	1	1	106	163	30985	c83373_g2
+GO:0031226	intrinsic to plasma membrane	cellular_component	0.53662	1	1	106	196	30985	c74452_g4
+GO:0006357	regulation of transcription from RNA polymerase II promoter	biological_process	0.54033	1	1	106	211	30985	c71758_g1
+GO:0009144	purine nucleoside triphosphate metabolic process	biological_process	0.54355	1	2	106	454	30985	c83373_g2,c125785_g1
+GO:0009199	ribonucleoside triphosphate metabolic process	biological_process	0.54355	1	2	106	454	30985	c83373_g2,c125785_g1
+GO:0009205	purine ribonucleoside triphosphate metabolic process	biological_process	0.54355	1	2	106	454	30985	c125785_g1,c83373_g2
+GO:0016746	transferase activity, transferring acyl groups	molecular_function	0.54631	1	2	106	503	30985	c77453_g2,c76633_g1
+GO:0031325	positive regulation of cellular metabolic process	biological_process	0.5465	1	1	106	241	30985	c82740_g1
+GO:0009166	nucleotide catabolic process	biological_process	0.54808	1	1	106	181	30985	c83373_g2
+GO:0009145	purine nucleoside triphosphate biosynthetic process	biological_process	0.54834	1	1	106	222	30985	c125785_g1
+GO:0009201	ribonucleoside triphosphate biosynthetic process	biological_process	0.54834	1	1	106	222	30985	c125785_g1
+GO:0009206	purine ribonucleoside triphosphate biosynthetic process	biological_process	0.54834	1	1	106	222	30985	c125785_g1
+GO:0051301	cell division	biological_process	0.54978	1	1	106	208	30985	c78292_g2
+GO:0005737	cytoplasm	cellular_component	0.55006	1	14	106	4127	30985	c128334_g1,c75576_g1,c4845_g1,c78824_g1,c5230_g1,c78292_g2,c64817_g1,c78964_g1,c73259_g1,c63931_g1,c83373_g2,c70975_g1,c71534_g1,c33876_g1
+GO:0009142	nucleoside triphosphate biosynthetic process	biological_process	0.55088	1	1	106	224	30985	c125785_g1
+GO:0009605	response to external stimulus	biological_process	0.55128	1	1	106	232	30985	c73070_g1
+GO:1901292	nucleoside phosphate catabolic process	biological_process	0.55132	1	1	106	183	30985	c83373_g2
+GO:0006814	sodium ion transport	biological_process	0.5519	1	1	106	209	30985	c128334_g1
+GO:0051188	cofactor biosynthetic process	biological_process	0.5526	1	2	106	515	30985	c128334_g1,c81038_g2
+GO:0044436	thylakoid part	cellular_component	0.55371	1	1	106	239	30985	c77269_g1
+GO:0003678	DNA helicase activity	molecular_function	0.55401	1	1	106	203	30985	c82785_g1
+GO:0034613	cellular protein localization	biological_process	0.5543	1	4	106	1045	30985	c64817_g1,c73070_g1,c78856_g1,c67670_g2
+GO:0070727	cellular macromolecule localization	biological_process	0.5543	1	4	106	1045	30985	c78856_g1,c67670_g2,c64817_g1,c73070_g1
+GO:0048610	cellular process involved in reproduction	biological_process	0.55432	1	1	106	233	30985	c71980_g1
+GO:0071944	cell periphery	cellular_component	0.55468	1	3	106	824	30985	c33876_g1,c128334_g1,c74452_g4
+GO:0009579	thylakoid	cellular_component	0.55612	1	1	106	240	30985	c77269_g1
+GO:0042773	ATP synthesis coupled electron transport	biological_process	0.55664	1	1	106	238	30985	c128334_g1
+GO:0009141	nucleoside triphosphate metabolic process	biological_process	0.55676	1	2	106	465	30985	c83373_g2,c125785_g1
+GO:0044085	cellular component biogenesis	biological_process	0.56022	1	7	106	2085	30985	c77700_g1,c63931_g1,c75576_g1,c71980_g1,c78292_g2,c64817_g1,c71534_g1
+GO:0007166	cell surface receptor signaling pathway	biological_process	0.56118	1	3	106	732	30985	c74406_g1,c82740_g1,c128334_g1
+GO:0042967	acyl-carrier-protein biosynthetic process	biological_process	0.56166	1	1	106	217	30985	c77453_g2
+GO:0005634	nucleus	cellular_component	0.56222	1	13	106	3459	30985	c78449_g1,c125785_g1,c70355_g1,c76369_g1,c128334_g1,c33876_g1,c73070_g1,c71858_g1,c78976_g1,c82785_g1,c78866_g2,c82951_g1,c71758_g1
+GO:0033177	proton-transporting two-sector ATPase complex, proton-transporting domain	cellular_component	0.56272	1	1	106	223	30985	c73070_g1
+GO:0006664	glycolipid metabolic process	biological_process	0.56333	1	1	106	195	30985	c76023_g2
+GO:0010646	regulation of cell communication	biological_process	0.56615	1	1	106	227	30985	c78856_g1
+GO:0023051	regulation of signaling	biological_process	0.56615	1	1	106	227	30985	c78856_g1
+GO:0044724	single-organism carbohydrate catabolic process	biological_process	0.56838	1	1	106	257	30985	c34399_g1
+GO:0044764	multi-organism cellular process	biological_process	0.56942	1	3	106	777	30985	c71980_g1,c81339_g1,c82785_g1
+GO:0005856	cytoskeleton	cellular_component	0.57095	1	3	106	766	30985	c73070_g1,c77700_g1,c128334_g1
+GO:0006643	membrane lipid metabolic process	biological_process	0.57207	1	1	106	200	30985	c76023_g2
+GO:0042398	cellular modified amino acid biosynthetic process	biological_process	0.57425	1	1	106	243	30985	c81038_g2
+GO:0044403	symbiosis, encompassing mutualism through parasitism	biological_process	0.57438	1	3	106	787	30985	c81339_g1,c78856_g1,c71980_g1
+GO:0015979	photosynthesis	biological_process	0.57442	1	1	106	261	30985	c77269_g1
+GO:0006006	glucose metabolic process	biological_process	0.57591	1	1	106	272	30985	c77857_g2
+GO:0000226	microtubule cytoskeleton organization	biological_process	0.58032	1	1	106	223	30985	c73070_g1
+GO:0044419	interspecies interaction between organisms	biological_process	0.58215	1	3	106	797	30985	c81339_g1,c71980_g1,c78856_g1
+GO:0000775	chromosome, centromeric region	cellular_component	0.58231	1	1	106	218	30985	c73070_g1
+GO:0009653	anatomical structure morphogenesis	biological_process	0.58242	1	1	106	257	30985	c78856_g1
+GO:0042364	water-soluble vitamin biosynthetic process	biological_process	0.58393	1	1	106	251	30985	c81038_g2
+GO:0009056	catabolic process	biological_process	0.58456	1	6	106	1649	30985	c66959_g1,c34399_g1,c83373_g2,c78449_g1,c80324_g2,c76023_g2
+GO:0009110	vitamin biosynthetic process	biological_process	0.58558	1	1	106	252	30985	c81038_g2
+GO:0004871	signal transducer activity	molecular_function	0.58658	1	3	106	748	30985	c128334_g1,c82740_g1,c74406_g1
+GO:0060089	molecular transducer activity	molecular_function	0.58658	1	3	106	748	30985	c82740_g1,c74406_g1,c128334_g1
+GO:0019220	regulation of phosphate metabolic process	biological_process	0.58725	1	1	106	234	30985	c83373_g2
+GO:0051174	regulation of phosphorus metabolic process	biological_process	0.58725	1	1	106	234	30985	c83373_g2
+GO:0050660	flavin adenine dinucleotide binding	molecular_function	0.58936	1	1	106	225	30985	c78398_g1
+GO:0022904	respiratory electron transport chain	biological_process	0.59002	1	1	106	263	30985	c128334_g1
+GO:1901361	organic cyclic compound catabolic process	biological_process	0.59043	1	2	106	486	30985	c83373_g2,c66959_g1
+GO:0005261	cation channel activity	molecular_function	0.59045	1	1	106	212	30985	c74452_g4
+GO:0019439	aromatic compound catabolic process	biological_process	0.59051	1	2	106	490	30985	c66959_g1,c83373_g2
+GO:0071705	nitrogen compound transport	biological_process	0.59102	1	1	106	235	30985	c74721_g1
+GO:0044444	cytoplasmic part	cellular_component	0.59564	1	11	106	3404	30985	c78824_g1,c128334_g1,c75576_g1,c5230_g1,c78964_g1,c64817_g1,c73259_g1,c63931_g1,c33876_g1,c70975_g1,c71534_g1
+GO:0072521	purine-containing compound metabolic process	biological_process	0.59696	1	4	106	1100	30985	c83373_g2,c125785_g1,c78976_g1,c78866_g2
+GO:0016829	lyase activity	molecular_function	0.59747	1	2	106	599	30985	c80324_g2,c77857_g2
+GO:0051603	proteolysis involved in cellular protein catabolic process	biological_process	0.6022	1	1	106	246	30985	c78449_g1
+GO:0044257	cellular protein catabolic process	biological_process	0.60467	1	1	106	249	30985	c78449_g1
+GO:0006950	response to stress	biological_process	0.60551	1	5	106	1484	30985	c71038_g1,c76369_g1,c66212_g1,c82951_g1,c128334_g1
+GO:0016052	carbohydrate catabolic process	biological_process	0.60718	1	1	106	284	30985	c34399_g1
+GO:1901564	organonitrogen compound metabolic process	biological_process	0.60787	1	12	106	3418	30985	c72971_g1,c76023_g2,c78866_g2,c66959_g1,c78976_g1,c83373_g2,c81038_g2,c81319_g1,c80324_g2,c70026_g1,c5230_g1,c125785_g1
+GO:0043231	intracellular membrane-bounded organelle	cellular_component	0.61074	1	18	106	5070	30985	c70355_g1,c78824_g1,c76369_g1,c64817_g1,c82785_g1,c82951_g1,c78866_g2,c71858_g1,c33876_g1,c73070_g1,c70975_g1,c128334_g1,c5230_g1,c78449_g1,c125785_g1,c73259_g1,c71758_g1,c78976_g1
+GO:0051128	regulation of cellular component organization	biological_process	0.61127	1	1	106	265	30985	c64419_g2
+GO:0044711	single-organism biosynthetic process	biological_process	0.61215	1	3	106	920	30985	c128334_g1,c80170_g4,c81038_g2
+GO:0051704	multi-organism process	biological_process	0.61269	1	5	106	1443	30985	c71858_g1,c78856_g1,c71980_g1,c81339_g1,c82785_g1
+GO:0050896	response to stimulus	biological_process	0.61287	1	15	106	4150	30985	c76369_g1,c128334_g1,c82740_g1,c71038_g1,c5230_g1,c81217_g1,c66212_g1,c82951_g1,c71758_g1,c72971_g1,c74406_g1,c78976_g1,c73070_g1,c71858_g1,c66959_g1
+GO:0043227	membrane-bounded organelle	cellular_component	0.61424	1	18	106	5083	30985	c78449_g1,c125785_g1,c5230_g1,c128334_g1,c78976_g1,c73259_g1,c71758_g1,c64817_g1,c76369_g1,c70355_g1,c78824_g1,c70975_g1,c71858_g1,c73070_g1,c33876_g1,c82951_g1,c78866_g2,c82785_g1
+GO:0008237	metallopeptidase activity	molecular_function	0.61461	1	1	106	235	30985	c68882_g1
+GO:0031329	regulation of cellular catabolic process	biological_process	0.61844	1	1	106	238	30985	c83373_g2
+GO:0030234	enzyme regulator activity	molecular_function	0.62049	1	2	106	557	30985	c75876_g1,c83373_g2
+GO:0005657	replication fork	cellular_component	0.62121	1	1	106	249	30985	c82785_g1
+GO:0009150	purine ribonucleotide metabolic process	biological_process	0.62147	1	2	106	529	30985	c125785_g1,c83373_g2
+GO:0016651	oxidoreductase activity, acting on NAD(P)H	molecular_function	0.62278	1	1	106	247	30985	c128334_g1
+GO:0002376	immune system process	biological_process	0.62612	1	1	106	296	30985	c5230_g1
+GO:0005743	mitochondrial inner membrane	cellular_component	0.62659	1	1	106	308	30985	c128334_g1
+GO:0022836	gated channel activity	molecular_function	0.62815	1	1	106	221	30985	c74452_g4
+GO:0022839	ion gated channel activity	molecular_function	0.62815	1	1	106	221	30985	c74452_g4
+GO:0042451	purine nucleoside biosynthetic process	biological_process	0.62883	1	1	106	274	30985	c125785_g1
+GO:0046129	purine ribonucleoside biosynthetic process	biological_process	0.62883	1	1	106	274	30985	c125785_g1
+GO:0006886	intracellular protein transport	biological_process	0.62949	1	3	106	872	30985	c67670_g2,c78856_g1,c64817_g1
+GO:0009894	regulation of catabolic process	biological_process	0.62962	1	1	106	246	30985	c83373_g2
+GO:0006733	oxidoreduction coenzyme metabolic process	biological_process	0.63096	1	1	106	279	30985	c128334_g1
+GO:0020037	heme binding	molecular_function	0.63103	1	1	106	293	30985	c76391_g1
+GO:0043603	cellular amide metabolic process	biological_process	0.63448	1	1	106	289	30985	c81038_g2
+GO:0019866	organelle inner membrane	cellular_component	0.63769	1	1	106	315	30985	c128334_g1
+GO:0009259	ribonucleotide metabolic process	biological_process	0.63784	1	2	106	547	30985	c125785_g1,c83373_g2
+GO:0019693	ribose phosphate metabolic process	biological_process	0.63784	1	2	106	547	30985	c125785_g1,c83373_g2
+GO:0006732	coenzyme metabolic process	biological_process	0.64002	1	2	106	603	30985	c128334_g1,c81038_g2
+GO:0048583	regulation of response to stimulus	biological_process	0.64182	1	1	106	284	30985	c76369_g1
+GO:0006163	purine nucleotide metabolic process	biological_process	0.64225	1	2	106	557	30985	c83373_g2,c125785_g1
+GO:0042278	purine nucleoside metabolic process	biological_process	0.64458	1	2	106	549	30985	c83373_g2,c125785_g1
+GO:0046128	purine ribonucleoside metabolic process	biological_process	0.64458	1	2	106	549	30985	c125785_g1,c83373_g2
+GO:0060589	nucleoside-triphosphatase regulator activity	molecular_function	0.64488	1	1	106	248	30985	c83373_g2
+GO:0071840	cellular component organization or biogenesis	biological_process	0.64707	1	10	106	3099	30985	c78292_g2,c64817_g1,c40551_g1,c75576_g1,c64419_g2,c71534_g1,c73070_g1,c63931_g1,c71980_g1,c77700_g1
+GO:0044455	mitochondrial membrane part	cellular_component	0.64839	1	1	106	307	30985	c128334_g1
+GO:0046434	organophosphate catabolic process	biological_process	0.64858	1	1	106	248	30985	c83373_g2
+GO:0009066	aspartate family amino acid metabolic process	biological_process	0.649	1	1	106	293	30985	c80324_g2
+GO:0046906	tetrapyrrole binding	molecular_function	0.64953	1	1	106	307	30985	c76391_g1
+GO:0030163	protein catabolic process	biological_process	0.65072	1	1	106	280	30985	c78449_g1
+GO:0006397	mRNA processing	biological_process	0.65297	1	1	106	261	30985	c70355_g1
+GO:0007155	cell adhesion	biological_process	0.65477	1	1	106	258	30985	c73070_g1
+GO:0030529	ribonucleoprotein complex	cellular_component	0.6548	1	4	106	1422	30985	c71534_g1,c70355_g1,c75576_g1,c63931_g1
+GO:0009163	nucleoside biosynthetic process	biological_process	0.65775	1	1	106	294	30985	c125785_g1
+GO:0042455	ribonucleoside biosynthetic process	biological_process	0.65775	1	1	106	294	30985	c125785_g1
+GO:0022607	cellular component assembly	biological_process	0.65867	1	3	106	905	30985	c78292_g2,c64817_g1,c71980_g1
+GO:0006119	oxidative phosphorylation	biological_process	0.66558	1	1	106	334	30985	c128334_g1
+GO:0006144	purine nucleobase metabolic process	biological_process	0.66814	1	2	106	625	30985	c78866_g2,c78976_g1
+GO:0009119	ribonucleoside metabolic process	biological_process	0.66826	1	2	106	574	30985	c125785_g1,c83373_g2
+GO:0009069	serine family amino acid metabolic process	biological_process	0.66848	1	1	106	261	30985	c80324_g2
+GO:0046034	ATP metabolic process	biological_process	0.67115	1	1	106	297	30985	c125785_g1
+GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	molecular_function	0.67359	1	1	106	322	30985	c81038_g2
+GO:0009152	purine ribonucleotide biosynthetic process	biological_process	0.67595	1	1	106	303	30985	c125785_g1
+GO:0022610	biological adhesion	biological_process	0.67817	1	1	106	276	30985	c73070_g1
+GO:0044427	chromosomal part	cellular_component	0.67822	1	2	106	620	30985	c82785_g1,c73070_g1
+GO:1901659	glycosyl compound biosynthetic process	biological_process	0.68121	1	1	106	319	30985	c125785_g1
+GO:0022900	electron transport chain	biological_process	0.68123	1	1	106	339	30985	c128334_g1
+GO:0012505	endomembrane system	cellular_component	0.68411	1	2	106	645	30985	c78824_g1,c70975_g1
+GO:0006164	purine nucleotide biosynthetic process	biological_process	0.68577	1	1	106	312	30985	c125785_g1
+GO:0071822	protein complex subunit organization	biological_process	0.6871	1	2	106	630	30985	c40551_g1,c64817_g1
+GO:0005789	endoplasmic reticulum membrane	cellular_component	0.69339	1	1	106	302	30985	c78824_g1
+GO:0005840	ribosome	cellular_component	0.69394	1	3	106	1175	30985	c75576_g1,c63931_g1,c71534_g1
+GO:0005622	intracellular	cellular_component	0.69618	1	29	106	8689	30985	c78976_g1,c82981_g1,c73259_g1,c71758_g1,c78449_g1,c125785_g1,c5230_g1,c78292_g2,c78964_g1,c72070_g1,c128334_g1,c83373_g2,c70975_g1,c71534_g1,c71858_g1,c73070_g1,c33876_g1,c82951_g1,c78866_g2,c63931_g1,c77269_g1,c82785_g1,c77700_g1,c64817_g1,c75576_g1,c76369_g1,c4845_g1,c70355_g1,c78824_g1
+GO:0009260	ribonucleotide biosynthetic process	biological_process	0.69623	1	1	106	321	30985	c125785_g1
+GO:0046390	ribose phosphate biosynthetic process	biological_process	0.69623	1	1	106	321	30985	c125785_g1
+GO:0042175	nuclear outer membrane-endoplasmic reticulum membrane network	cellular_component	0.70164	1	1	106	309	30985	c78824_g1
+GO:0006366	transcription from RNA polymerase II promoter	biological_process	0.70364	1	1	106	329	30985	c71758_g1
+GO:0016051	carbohydrate biosynthetic process	biological_process	0.7054	1	1	106	390	30985	c77857_g2
+GO:0044767	single-organism developmental process	biological_process	0.70615	1	1	106	358	30985	c80170_g4
+GO:0016747	transferase activity, transferring acyl groups other than amino-acyl groups	molecular_function	0.71026	1	1	106	331	30985	c77453_g2
+GO:0031981	nuclear lumen	cellular_component	0.71073	1	6	106	1883	30985	c78976_g1,c33876_g1,c73070_g1,c71858_g1,c78866_g2,c71758_g1
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	molecular_function	0.71137	1	1	106	338	30985	c76391_g1
+GO:0016469	proton-transporting two-sector ATPase complex	cellular_component	0.71155	1	1	106	338	30985	c73070_g1
+GO:0044432	endoplasmic reticulum part	cellular_component	0.71231	1	1	106	322	30985	c78824_g1
+GO:0044248	cellular catabolic process	biological_process	0.71444	1	4	106	1271	30985	c80324_g2,c83373_g2,c78449_g1,c66959_g1
+GO:0006575	cellular modified amino acid metabolic process	biological_process	0.71584	1	1	106	361	30985	c81038_g2
+GO:0072522	purine-containing compound biosynthetic process	biological_process	0.72046	1	1	106	341	30985	c125785_g1
+GO:0016071	mRNA metabolic process	biological_process	0.72058	1	1	106	310	30985	c70355_g1
+GO:0008104	protein localization	biological_process	0.72101	1	4	106	1311	30985	c64817_g1,c73070_g1,c78856_g1,c67670_g2
+GO:0046486	glycerolipid metabolic process	biological_process	0.72182	1	1	106	312	30985	c76023_g2
+GO:0009116	nucleoside metabolic process	biological_process	0.72417	1	2	106	650	30985	c83373_g2,c125785_g1
+GO:0044428	nuclear part	cellular_component	0.72468	1	7	106	2195	30985	c70355_g1,c71758_g1,c78866_g2,c71858_g1,c33876_g1,c73070_g1,c78976_g1
+GO:0043229	intracellular organelle	cellular_component	0.72581	1	22	106	6765	30985	c73070_g1,c33876_g1,c71858_g1,c71534_g1,c70975_g1,c77700_g1,c82785_g1,c78866_g2,c63931_g1,c82951_g1,c64817_g1,c78824_g1,c70355_g1,c75576_g1,c76369_g1,c78976_g1,c73259_g1,c71758_g1,c5230_g1,c78449_g1,c125785_g1,c128334_g1
+GO:0016779	nucleotidyltransferase activity	molecular_function	0.72591	1	2	106	701	30985	c78976_g1,c78866_g2
+GO:0016043	cellular component organization	biological_process	0.72633	1	6	106	1929	30985	c71980_g1,c64419_g2,c73070_g1,c40551_g1,c78292_g2,c64817_g1
+GO:0071702	organic substance transport	biological_process	0.72651	1	5	106	1618	30985	c78856_g1,c67670_g2,c64817_g1,c74721_g1,c80184_g1
+GO:0043226	organelle	cellular_component	0.72808	1	22	106	6777	30985	c73259_g1,c71758_g1,c78976_g1,c128334_g1,c125785_g1,c78449_g1,c5230_g1,c78866_g2,c63931_g1,c82951_g1,c82785_g1,c77700_g1,c70975_g1,c71534_g1,c73070_g1,c33876_g1,c71858_g1,c75576_g1,c76369_g1,c78824_g1,c70355_g1,c64817_g1
+GO:0044423	virion part	cellular_component	0.73193	1	2	106	684	30985	c78292_g2,c73070_g1
+GO:0048856	anatomical structure development	biological_process	0.73301	1	1	106	394	30985	c78856_g1
+GO:0006091	generation of precursor metabolites and energy	biological_process	0.73614	1	2	106	785	30985	c77269_g1,c128334_g1
+GO:0006928	cellular component movement	biological_process	0.73643	1	1	106	350	30985	c73070_g1
+GO:0007017	microtubule-based process	biological_process	0.73741	1	1	106	337	30985	c73070_g1
+GO:0043233	organelle lumen	cellular_component	0.73758	1	6	106	1948	30985	c78866_g2,c71758_g1,c78976_g1,c33876_g1,c73070_g1,c71858_g1
+GO:0070013	intracellular organelle lumen	cellular_component	0.73758	1	6	106	1948	30985	c78866_g2,c71758_g1,c78976_g1,c73070_g1,c33876_g1,c71858_g1
+GO:0004190	aspartic-type endopeptidase activity	molecular_function	0.73825	1	1	106	296	30985	c80170_g4
+GO:0070001	aspartic-type peptidase activity	molecular_function	0.73825	1	1	106	296	30985	c80170_g4
+GO:1901657	glycosyl compound metabolic process	biological_process	0.73829	1	2	106	676	30985	c83373_g2,c125785_g1
+GO:0009112	nucleobase metabolic process	biological_process	0.73916	1	2	106	727	30985	c78976_g1,c78866_g2
+GO:0031974	membrane-enclosed lumen	cellular_component	0.74066	1	6	106	1959	30985	c78866_g2,c71758_g1,c78976_g1,c73070_g1,c33876_g1,c71858_g1
+GO:0016032	viral process	biological_process	0.74266	1	2	106	687	30985	c81339_g1,c71980_g1
+GO:0005694	chromosome	cellular_component	0.74351	1	2	106	710	30985	c73070_g1,c82785_g1
+GO:0043169	cation binding	molecular_function	0.74423	1	15	106	4388	30985	c78976_g1,c82981_g1,c74406_g1,c77295_g1,c81217_g1,c5230_g1,c78964_g1,c78449_g1,c76633_g1,c78398_g1,c81038_g2,c71652_g1,c76391_g1,c78856_g1,c4845_g1
+GO:0040011	locomotion	biological_process	0.74573	1	1	106	373	30985	c73070_g1
+GO:0043933	macromolecular complex subunit organization	biological_process	0.74665	1	2	106	712	30985	c64817_g1,c40551_g1
+GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	molecular_function	0.75284	1	1	106	391	30985	c81038_g2
+GO:0045333	cellular respiration	biological_process	0.75695	1	1	106	414	30985	c128334_g1
+GO:0005623	cell	cellular_component	0.76081	1	30	106	9274	30985	c71858_g1,c73070_g1,c33876_g1,c83373_g2,c71534_g1,c70975_g1,c77269_g1,c82785_g1,c77700_g1,c82951_g1,c78866_g2,c63931_g1,c74452_g4,c64817_g1,c70355_g1,c78824_g1,c4845_g1,c76369_g1,c75576_g1,c82981_g1,c78976_g1,c71758_g1,c73259_g1,c5230_g1,c78292_g2,c78964_g1,c78449_g1,c125785_g1,c72070_g1,c128334_g1
+GO:0044464	cell part	cellular_component	0.76081	1	30	106	9274	30985	c75576_g1,c76369_g1,c4845_g1,c78824_g1,c70355_g1,c64817_g1,c74452_g4,c63931_g1,c78866_g2,c82951_g1,c77700_g1,c82785_g1,c77269_g1,c71534_g1,c70975_g1,c83373_g2,c73070_g1,c33876_g1,c71858_g1,c72070_g1,c128334_g1,c78449_g1,c125785_g1,c78964_g1,c78292_g2,c5230_g1,c71758_g1,c73259_g1,c82981_g1,c78976_g1
+GO:0044424	intracellular part	cellular_component	0.76354	1	27	106	8409	30985	c78449_g1,c125785_g1,c5230_g1,c78964_g1,c78292_g2,c128334_g1,c78976_g1,c71758_g1,c73259_g1,c64817_g1,c4845_g1,c76369_g1,c75576_g1,c70355_g1,c78824_g1,c83373_g2,c71534_g1,c70975_g1,c71858_g1,c33876_g1,c73070_g1,c82951_g1,c78866_g2,c63931_g1,c77269_g1,c82785_g1,c77700_g1
+GO:1901135	carbohydrate derivative metabolic process	biological_process	0.76381	1	4	106	1343	30985	c125785_g1,c83373_g2,c70026_g1,c76023_g2
+GO:0006996	organelle organization	biological_process	0.76439	1	3	106	1079	30985	c40551_g1,c73070_g1,c64817_g1
+GO:0031090	organelle membrane	cellular_component	0.76617	1	3	106	1144	30985	c70975_g1,c128334_g1,c78824_g1
+GO:0009165	nucleotide biosynthetic process	biological_process	0.76664	1	1	106	399	30985	c125785_g1
+GO:1901293	nucleoside phosphate biosynthetic process	biological_process	0.76664	1	1	106	399	30985	c125785_g1
+GO:0006118	electron transport	biological_process	0.76914	1	1	106	423	30985	c78398_g1
+GO:0022402	cell cycle process	biological_process	0.77008	1	1	106	386	30985	c78292_g2
+GO:0019012	virion	cellular_component	0.7706	1	2	106	742	30985	c73070_g1,c78292_g2
+GO:0015980	energy derivation by oxidation of organic compounds	biological_process	0.7731	1	1	106	433	30985	c128334_g1
+GO:0006260	DNA replication	biological_process	0.77636	1	2	106	756	30985	c73070_g1,c82785_g1
+GO:0042623	ATPase activity, coupled	molecular_function	0.77966	1	1	106	377	30985	c82785_g1
+GO:1901605	alpha-amino acid metabolic process	biological_process	0.78451	1	3	106	1109	30985	c81319_g1,c80324_g2,c66959_g1
+GO:0046914	transition metal ion binding	molecular_function	0.78971	1	9	106	2798	30985	c77295_g1,c82981_g1,c78976_g1,c74406_g1,c76391_g1,c4845_g1,c78449_g1,c78398_g1,c5230_g1
+GO:0006520	cellular amino acid metabolic process	biological_process	0.7919	1	4	106	1472	30985	c80324_g2,c81319_g1,c81038_g2,c66959_g1
+GO:0015031	protein transport	biological_process	0.79265	1	3	106	1143	30985	c78856_g1,c67670_g2,c64817_g1
+GO:0031966	mitochondrial membrane	cellular_component	0.79572	1	1	106	483	30985	c128334_g1
+GO:0045184	establishment of protein localization	biological_process	0.79587	1	3	106	1151	30985	c78856_g1,c67670_g2,c64817_g1
+GO:0044281	small molecule metabolic process	biological_process	0.79718	1	10	106	3392	30985	c72971_g1,c78866_g2,c78976_g1,c83373_g2,c66959_g1,c128334_g1,c81038_g2,c81319_g1,c80324_g2,c125785_g1
+GO:0044255	cellular lipid metabolic process	biological_process	0.7985	1	2	106	755	30985	c77889_g2,c76023_g2
+GO:0043623	cellular protein complex assembly	biological_process	0.79962	1	1	106	413	30985	c64817_g1
+GO:0008092	cytoskeletal protein binding	molecular_function	0.79981	1	1	106	411	30985	c40551_g1
+GO:0005740	mitochondrial envelope	cellular_component	0.80615	1	1	106	502	30985	c128334_g1
+GO:0006412	translation	biological_process	0.80626	1	3	106	1370	30985	c71534_g1,c63931_g1,c75576_g1
+GO:0046872	metal ion binding	molecular_function	0.80758	1	14	106	4323	30985	c78964_g1,c5230_g1,c78449_g1,c76633_g1,c78398_g1,c71652_g1,c4845_g1,c76391_g1,c78856_g1,c74406_g1,c78976_g1,c82981_g1,c81217_g1,c77295_g1
+GO:0055086	nucleobase-containing small molecule metabolic process	biological_process	0.80799	1	4	106	1515	30985	c78976_g1,c125785_g1,c83373_g2,c78866_g2
+GO:0035556	intracellular signal transduction	biological_process	0.80969	1	2	106	728	30985	c78976_g1,c128334_g1
+GO:0044283	small molecule biosynthetic process	biological_process	0.81092	1	2	106	891	30985	c128334_g1,c81038_g2
+GO:0015630	microtubule cytoskeleton	cellular_component	0.82577	1	1	106	442	30985	c73070_g1
+GO:0033036	macromolecule localization	biological_process	0.82595	1	4	106	1513	30985	c67670_g2,c78856_g1,c73070_g1,c64817_g1
+GO:0016788	hydrolase activity, acting on ester bonds	molecular_function	0.8316	1	5	106	1674	30985	c72971_g1,c81725_g1,c81319_g1,c77700_g1,c77576_g1
+GO:0009117	nucleotide metabolic process	biological_process	0.83323	1	2	106	860	30985	c83373_g2,c125785_g1
+GO:0044429	mitochondrial part	cellular_component	0.83532	1	1	106	547	30985	c128334_g1
+GO:0034655	nucleobase-containing compound catabolic process	biological_process	0.83619	1	1	106	438	30985	c83373_g2
+GO:0008652	cellular amino acid biosynthetic process	biological_process	0.83765	1	1	106	529	30985	c81038_g2
+GO:0006753	nucleoside phosphate metabolic process	biological_process	0.84258	1	2	106	883	30985	c125785_g1,c83373_g2
+GO:0034622	cellular macromolecular complex assembly	biological_process	0.84815	1	1	106	490	30985	c64817_g1
+GO:0031967	organelle envelope	cellular_component	0.84914	1	1	106	561	30985	c128334_g1
+GO:0044265	cellular macromolecule catabolic process	biological_process	0.85335	1	1	106	498	30985	c78449_g1
+GO:0046700	heterocycle catabolic process	biological_process	0.8547	1	1	106	469	30985	c83373_g2
+GO:0044270	cellular nitrogen compound catabolic process	biological_process	0.85512	1	1	106	471	30985	c83373_g2
+GO:0016757	transferase activity, transferring glycosyl groups	molecular_function	0.85525	1	1	106	522	30985	c75579_g1
+GO:0043565	sequence-specific DNA binding	molecular_function	0.85912	1	1	106	499	30985	c71758_g1
+GO:0031975	envelope	cellular_component	0.86825	1	1	106	608	30985	c128334_g1
+GO:0019752	carboxylic acid metabolic process	biological_process	0.87408	1	4	106	1699	30985	c81319_g1,c80324_g2,c81038_g2,c66959_g1
+GO:0006461	protein complex assembly	biological_process	0.87752	1	1	106	546	30985	c64817_g1
+GO:0070271	protein complex biogenesis	biological_process	0.87842	1	1	106	548	30985	c64817_g1
+GO:0043436	oxoacid metabolic process	biological_process	0.88101	1	4	106	1722	30985	c66959_g1,c80324_g2,c81319_g1,c81038_g2
+GO:0006082	organic acid metabolic process	biological_process	0.88149	1	4	106	1727	30985	c66959_g1,c81038_g2,c81319_g1,c80324_g2
+GO:0008610	lipid biosynthetic process	biological_process	0.89165	1	1	106	574	30985	c77889_g2
+GO:0006281	DNA repair	biological_process	0.89259	1	1	106	583	30985	c82951_g1
+GO:0006351	transcription, DNA-dependent	biological_process	0.89268	1	7	106	2755	30985	c71858_g1,c78976_g1,c125785_g1,c82740_g1,c71758_g1,c82951_g1,c78866_g2
+GO:0044446	intracellular organelle part	cellular_component	0.89359	1	11	106	4085	30985	c78824_g1,c70355_g1,c128334_g1,c73070_g1,c33876_g1,c71858_g1,c70975_g1,c78976_g1,c82785_g1,c78866_g2,c71758_g1
+GO:0090407	organophosphate biosynthetic process	biological_process	0.89373	1	1	106	598	30985	c125785_g1
+GO:0005102	receptor binding	molecular_function	0.8967	1	1	106	595	30985	c71858_g1
+GO:0007049	cell cycle	biological_process	0.89688	1	1	106	610	30985	c78292_g2
+GO:0044700	single organism signaling	biological_process	0.89744	1	7	106	2611	30985	c81217_g1,c128334_g1,c78856_g1,c71858_g1,c74406_g1,c82740_g1,c78976_g1
+GO:0023052	signaling	biological_process	0.898	1	7	106	2614	30985	c81217_g1,c128334_g1,c78856_g1,c71858_g1,c74406_g1,c78976_g1,c82740_g1
+GO:0044422	organelle part	cellular_component	0.89941	1	11	106	4118	30985	c82785_g1,c71758_g1,c78866_g2,c71858_g1,c33876_g1,c73070_g1,c78976_g1,c70975_g1,c70355_g1,c78824_g1,c128334_g1
+GO:0005515	protein binding	molecular_function	0.89956	1	19	106	5991	30985	c78449_g1,c5230_g1,c40551_g1,c67638_g1,c81038_g2,c64419_g2,c78976_g1,c68422_g1,c77295_g1,c68882_g1,c78856_g1,c4845_g1,c71695_g2,c78824_g1,c76921_g1,c71858_g1,c80305_g2,c33876_g1,c77700_g1
+GO:0016053	organic acid biosynthetic process	biological_process	0.90031	1	1	106	664	30985	c81038_g2
+GO:0046394	carboxylic acid biosynthetic process	biological_process	0.90031	1	1	106	664	30985	c81038_g2
+GO:0010467	gene expression	biological_process	0.9007	1	13	106	4895	30985	c71758_g1,c82951_g1,c63931_g1,c78866_g2,c71858_g1,c78976_g1,c71534_g1,c70355_g1,c128334_g1,c75576_g1,c81339_g1,c82740_g1,c125785_g1
+GO:0032774	RNA biosynthetic process	biological_process	0.90159	1	7	106	2792	30985	c82951_g1,c71758_g1,c78866_g2,c71858_g1,c78976_g1,c125785_g1,c82740_g1
+GO:0017111	nucleoside-triphosphatase activity	molecular_function	0.90692	1	3	106	1370	30985	c82785_g1,c75191_g1,c73070_g1
+GO:0065003	macromolecular complex assembly	biological_process	0.90777	1	1	106	625	30985	c64817_g1
+GO:0007154	cell communication	biological_process	0.90988	1	7	106	2686	30985	c81217_g1,c78856_g1,c128334_g1,c71858_g1,c74406_g1,c82740_g1,c78976_g1
+GO:0051716	cellular response to stimulus	biological_process	0.91282	1	9	106	3332	30985	c82740_g1,c128334_g1,c78976_g1,c74406_g1,c71858_g1,c66959_g1,c82951_g1,c72971_g1,c81217_g1
+GO:0006974	response to DNA damage stimulus	biological_process	0.91341	1	1	106	646	30985	c82951_g1
+GO:0016462	pyrophosphatase activity	molecular_function	0.91374	1	3	106	1406	30985	c73070_g1,c82785_g1,c75191_g1
+GO:0034645	cellular macromolecule biosynthetic process	biological_process	0.91878	1	13	106	5042	30985	c77453_g2,c78976_g1,c71534_g1,c71858_g1,c73070_g1,c82951_g1,c71758_g1,c78866_g2,c63931_g1,c82785_g1,c82740_g1,c125785_g1,c75576_g1
+GO:0050662	coenzyme binding	molecular_function	0.92096	1	1	106	665	30985	c78398_g1
+GO:0008270	zinc ion binding	molecular_function	0.92107	1	6	106	2323	30985	c77295_g1,c78449_g1,c78976_g1,c78398_g1,c82981_g1,c74406_g1
+GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	molecular_function	0.92429	1	3	106	1453	30985	c73070_g1,c82785_g1,c75191_g1
+GO:0009059	macromolecule biosynthetic process	biological_process	0.9276	1	13	106	5107	30985	c78976_g1,c77453_g2,c71534_g1,c71858_g1,c73070_g1,c71758_g1,c82951_g1,c78866_g2,c63931_g1,c82785_g1,c125785_g1,c82740_g1,c75576_g1
+GO:0005525	GTP binding	molecular_function	0.93011	1	1	106	646	30985	c77857_g2
+GO:0032561	guanyl ribonucleotide binding	molecular_function	0.93111	1	1	106	653	30985	c77857_g2
+GO:0019001	guanyl nucleotide binding	molecular_function	0.93271	1	1	106	660	30985	c77857_g2
+GO:0033554	cellular response to stress	biological_process	0.93392	1	1	106	738	30985	c82951_g1
+GO:1901137	carbohydrate derivative biosynthetic process	biological_process	0.93915	1	1	106	733	30985	c125785_g1
+GO:0044430	cytoskeletal part	cellular_component	0.94044	1	1	106	724	30985	c73070_g1
+GO:0003723	RNA binding	molecular_function	0.94341	1	2	106	1207	30985	c77295_g1,c73259_g1
+GO:0044249	cellular biosynthetic process	biological_process	0.94411	1	17	106	6588	30985	c75576_g1,c77889_g2,c78866_g2,c63931_g1,c82951_g1,c82785_g1,c71534_g1,c77453_g2,c73070_g1,c71858_g1,c128334_g1,c81038_g2,c125785_g1,c82740_g1,c80170_g4,c71758_g1,c78976_g1
+GO:1901566	organonitrogen compound biosynthetic process	biological_process	0.94573	1	2	106	1292	30985	c125785_g1,c81038_g2
+GO:0019637	organophosphate metabolic process	biological_process	0.94672	1	2	106	1221	30985	c125785_g1,c83373_g2
+GO:0007165	signal transduction	biological_process	0.94837	1	6	106	2590	30985	c71858_g1,c74406_g1,c82740_g1,c78976_g1,c81217_g1,c128334_g1
+GO:0016817	hydrolase activity, acting on acid anhydrides	molecular_function	0.94893	1	3	106	1580	30985	c73070_g1,c82785_g1,c75191_g1
+GO:0032991	macromolecular complex	cellular_component	0.95058	1	15	106	6029	30985	c78964_g1,c78824_g1,c64419_g2,c70355_g1,c4845_g1,c75576_g1,c128334_g1,c73070_g1,c71858_g1,c71534_g1,c77269_g1,c76023_g2,c74452_g4,c63931_g1,c71758_g1
+GO:0009058	biosynthetic process	biological_process	0.95265	1	18	106	7049	30985	c71858_g1,c73070_g1,c77453_g2,c71534_g1,c82785_g1,c82951_g1,c63931_g1,c78866_g2,c77889_g2,c75576_g1,c77857_g2,c78976_g1,c71758_g1,c80170_g4,c82740_g1,c125785_g1,c81038_g2,c128334_g1
+GO:0016887	ATPase activity	molecular_function	0.95411	1	1	106	779	30985	c82785_g1
+GO:0006396	RNA processing	biological_process	0.95571	1	1	106	796	30985	c70355_g1
+GO:0006259	DNA metabolic process	biological_process	0.95714	1	8	106	3188	30985	c79376_g2,c73070_g1,c77247_g1,c80184_g1,c77576_g1,c77700_g1,c82785_g1,c82951_g1
+GO:0034654	nucleobase-containing compound biosynthetic process	biological_process	0.95941	1	7	106	3216	30985	c82740_g1,c125785_g1,c78976_g1,c71858_g1,c71758_g1,c82951_g1,c78866_g2
+GO:0010468	regulation of gene expression	biological_process	0.9606	1	5	106	2495	30985	c82951_g1,c128334_g1,c71758_g1,c71858_g1,c82740_g1
+GO:0001071	nucleic acid binding transcription factor activity	molecular_function	0.96069	1	1	106	853	30985	c71758_g1
+GO:0003700	sequence-specific DNA binding transcription factor activity	molecular_function	0.96069	1	1	106	853	30985	c71758_g1
+GO:0065007	biological regulation	biological_process	0.96111	1	17	106	6326	30985	c82951_g1,c81217_g1,c83373_g2,c71858_g1,c33876_g1,c73070_g1,c78856_g1,c76369_g1,c4845_g1,c71758_g1,c78976_g1,c74406_g1,c76964_g4,c128334_g1,c64419_g2,c82740_g1,c5230_g1
+GO:1901576	organic substance biosynthetic process	biological_process	0.96359	1	17	106	6869	30985	c81038_g2,c128334_g1,c82740_g1,c125785_g1,c71758_g1,c77857_g2,c78976_g1,c77889_g2,c75576_g1,c82785_g1,c82951_g1,c63931_g1,c78866_g2,c71858_g1,c73070_g1,c77453_g2,c71534_g1
+GO:0043168	anion binding	molecular_function	0.9651	1	8	106	3570	30985	c75191_g1,c82785_g1,c77857_g2,c78856_g1,c80345_g1,c71652_g1,c80324_g2,c78398_g1
+GO:0009987	cellular process	biological_process	0.96577	1	56	106	18003	30985	c125785_g1,c78449_g1,c77303_g4,c82740_g1,c40551_g1,c78292_g2,c5230_g1,c80324_g2,c64419_g2,c67670_g2,c81038_g2,c78976_g1,c76964_g4,c76023_g2,c72971_g1,c71758_g1,c81319_g1,c70355_g1,c70975_g1,c33876_g1,c71858_g1,c55414_g1,c63931_g1,c71980_g1,c82951_g1,c82785_g1,c77269_g1,c80266_g1,c76633_g1,c81928_g3,c81339_g1,c79376_g2,c128334_g1,c79008_g2,c74406_g1,c80184_g1,c80170_g4,c73259_g1,c80377_g1,c74721_g1,c64817_g1,c75576_g1,c4845_g1,c78856_g1,c77889_g2,c71534_g1,c77453_g2,c83373_g2,c77576_g1,c73070_g1,c77247_g1,c34399_g1,c66959_g1,c78866_g2,c81217_g1,c77700_g1
+GO:0006355	regulation of transcription, DNA-dependent	biological_process	0.96759	1	4	106	2171	30985	c82951_g1,c71758_g1,c82740_g1,c71858_g1
+GO:0019222	regulation of metabolic process	biological_process	0.96866	1	7	106	3273	30985	c71758_g1,c128334_g1,c82951_g1,c83373_g2,c82740_g1,c33876_g1,c71858_g1
+GO:2001141	regulation of RNA biosynthetic process	biological_process	0.96887	1	4	106	2183	30985	c82951_g1,c71758_g1,c71858_g1,c82740_g1
+GO:0043234	protein complex	cellular_component	0.96969	1	11	106	4779	30985	c78964_g1,c78824_g1,c64419_g2,c128334_g1,c4845_g1,c71858_g1,c73070_g1,c77269_g1,c71758_g1,c74452_g4,c76023_g2
+GO:0044451	nucleoplasm part	cellular_component	0.96973	1	2	106	1381	30985	c71858_g1,c71758_g1
+GO:0005654	nucleoplasm	cellular_component	0.97022	1	2	106	1389	30985	c71858_g1,c71758_g1
+GO:0044271	cellular nitrogen compound biosynthetic process	biological_process	0.97075	1	8	106	3761	30985	c81038_g2,c82740_g1,c125785_g1,c71758_g1,c82951_g1,c78866_g2,c78976_g1,c71858_g1
+GO:0015074	DNA integration	biological_process	0.97286	1	2	106	1135	30985	c80184_g1,c79376_g2
+GO:0019219	regulation of nucleobase-containing compound metabolic process	biological_process	0.97962	1	5	106	2671	30985	c71858_g1,c83373_g2,c82740_g1,c82951_g1,c71758_g1
+GO:0051171	regulation of nitrogen compound metabolic process	biological_process	0.97964	1	5	106	2672	30985	c71758_g1,c82951_g1,c71858_g1,c83373_g2,c82740_g1
+GO:0043167	ion binding	molecular_function	0.98085	1	20	106	7573	30985	c4845_g1,c78856_g1,c71652_g1,c81217_g1,c82785_g1,c78449_g1,c78398_g1,c76633_g1,c78964_g1,c5230_g1,c80345_g1,c76391_g1,c80324_g2,c81038_g2,c74406_g1,c82981_g1,c78976_g1,c77857_g2,c77295_g1,c75191_g1
+GO:2000112	regulation of cellular macromolecule biosynthetic process	biological_process	0.98284	1	4	106	2430	30985	c71758_g1,c82951_g1,c71858_g1,c82740_g1
+GO:0019438	aromatic compound biosynthetic process	biological_process	0.98308	1	7	106	3622	30985	c71758_g1,c82951_g1,c78866_g2,c82740_g1,c125785_g1,c78976_g1,c71858_g1
+GO:0003677	DNA binding	molecular_function	0.98331	1	8	106	3828	30985	c77247_g1,c77576_g1,c78976_g1,c74406_g1,c77700_g1,c82785_g1,c71758_g1,c79376_g2
+GO:0010556	regulation of macromolecule biosynthetic process	biological_process	0.98354	1	4	106	2443	30985	c82951_g1,c71758_g1,c71858_g1,c82740_g1
+GO:0031326	regulation of cellular biosynthetic process	biological_process	0.98361	1	4	106	2446	30985	c82740_g1,c71858_g1,c71758_g1,c82951_g1
+GO:0009889	regulation of biosynthetic process	biological_process	0.98379	1	4	106	2451	30985	c71858_g1,c82740_g1,c82951_g1,c71758_g1
+GO:0018130	heterocycle biosynthetic process	biological_process	0.98617	1	7	106	3709	30985	c71858_g1,c125785_g1,c82740_g1,c78976_g1,c82951_g1,c71758_g1,c78866_g2
+GO:0006796	phosphate-containing compound metabolic process	biological_process	0.98642	1	4	106	2513	30985	c83373_g2,c125785_g1,c81319_g1,c128334_g1
+GO:0006793	phosphorus metabolic process	biological_process	0.98761	1	4	106	2545	30985	c83373_g2,c125785_g1,c81319_g1,c128334_g1
+GO:0005667	transcription factor complex	cellular_component	0.98783	1	1	106	1138	30985	c71758_g1
+GO:0050789	regulation of biological process	biological_process	0.98799	1	14	106	5971	30985	c5230_g1,c82740_g1,c64419_g2,c128334_g1,c78856_g1,c76369_g1,c71858_g1,c33876_g1,c78976_g1,c83373_g2,c74406_g1,c82951_g1,c71758_g1,c81217_g1
+GO:0044267	cellular protein metabolic process	biological_process	0.98918	1	6	106	3563	30985	c71534_g1,c76633_g1,c78449_g1,c75576_g1,c63931_g1,c81319_g1
+GO:0044237	cellular metabolic process	biological_process	0.98921	1	37	106	13343	30985	c82951_g1,c63931_g1,c77269_g1,c82785_g1,c55414_g1,c71858_g1,c70355_g1,c81319_g1,c72971_g1,c71758_g1,c76023_g2,c78976_g1,c81038_g2,c80324_g2,c78449_g1,c82740_g1,c77303_g4,c125785_g1,c5230_g1,c78866_g2,c77700_g1,c77453_g2,c83373_g2,c77576_g1,c71534_g1,c77247_g1,c66959_g1,c34399_g1,c73070_g1,c75576_g1,c77889_g2,c80170_g4,c80184_g1,c128334_g1,c79008_g2,c79376_g2,c76633_g1
+GO:0016070	RNA metabolic process	biological_process	0.98937	1	8	106	4078	30985	c78866_g2,c71758_g1,c82951_g1,c71858_g1,c78976_g1,c70355_g1,c82740_g1,c125785_g1
+GO:0051252	regulation of RNA metabolic process	biological_process	0.98956	1	4	106	2534	30985	c82740_g1,c71858_g1,c82951_g1,c71758_g1
+GO:0060255	regulation of macromolecule metabolic process	biological_process	0.98962	1	5	106	2988	30985	c71858_g1,c82740_g1,c128334_g1,c82951_g1,c71758_g1
+GO:1901362	organic cyclic compound biosynthetic process	biological_process	0.99003	1	7	106	3836	30985	c78976_g1,c125785_g1,c82740_g1,c71858_g1,c71758_g1,c82951_g1,c78866_g2
+GO:0050794	regulation of cellular process	biological_process	0.99125	1	13	106	5784	30985	c64419_g2,c78856_g1,c128334_g1,c5230_g1,c82740_g1,c81217_g1,c71758_g1,c82951_g1,c33876_g1,c71858_g1,c74406_g1,c83373_g2,c78976_g1
+GO:0044260	cellular macromolecule metabolic process	biological_process	0.99129	1	26	106	9988	30985	c79376_g2,c79008_g2,c78449_g1,c76633_g1,c77303_g4,c82740_g1,c125785_g1,c71758_g1,c78976_g1,c80184_g1,c75576_g1,c81319_g1,c70355_g1,c78866_g2,c63931_g1,c82951_g1,c82785_g1,c77700_g1,c71534_g1,c77453_g2,c77576_g1,c73070_g1,c77247_g1,c71858_g1,c34399_g1,c55414_g1
+GO:0080090	regulation of primary metabolic process	biological_process	0.99154	1	5	106	3036	30985	c71858_g1,c83373_g2,c82740_g1,c71758_g1,c82951_g1
+GO:0016310	phosphorylation	biological_process	0.99172	1	1	106	1291	30985	c128334_g1
+GO:0006464	cellular protein modification process	biological_process	0.99218	1	2	106	1750	30985	c76633_g1,c81319_g1
+GO:0036211	protein modification process	biological_process	0.99218	1	2	106	1750	30985	c81319_g1,c76633_g1
+GO:0006807	nitrogen compound metabolic process	biological_process	0.99268	1	24	106	9289	30985	c70355_g1,c81319_g1,c70026_g1,c66959_g1,c71858_g1,c77247_g1,c73070_g1,c83373_g2,c77576_g1,c82785_g1,c77700_g1,c82951_g1,c78866_g2,c5230_g1,c125785_g1,c82740_g1,c81038_g2,c80324_g2,c79376_g2,c80184_g1,c78976_g1,c71758_g1,c72971_g1,c76023_g2
+GO:0031323	regulation of cellular metabolic process	biological_process	0.9933	1	5	106	3116	30985	c71858_g1,c83373_g2,c82740_g1,c82951_g1,c71758_g1
+GO:0090304	nucleic acid metabolic process	biological_process	0.99655	1	15	106	6688	30985	c71858_g1,c77247_g1,c80184_g1,c73070_g1,c77576_g1,c78976_g1,c82785_g1,c77700_g1,c71758_g1,c82951_g1,c78866_g2,c125785_g1,c82740_g1,c70355_g1,c79376_g2
+GO:0043412	macromolecule modification	biological_process	0.99683	1	2	106	2023	30985	c76633_g1,c81319_g1
+GO:0016740	transferase activity	molecular_function	0.9974	1	6	106	3932	30985	c80345_g1,c78866_g2,c75579_g1,c77453_g2,c76633_g1,c78976_g1
+GO:1901360	organic cyclic compound metabolic process	biological_process	0.99755	1	20	106	8523	30985	c73070_g1,c66959_g1,c71858_g1,c77247_g1,c83373_g2,c77576_g1,c82785_g1,c77700_g1,c78866_g2,c82951_g1,c81319_g1,c70355_g1,c80184_g1,c78976_g1,c71758_g1,c72971_g1,c5230_g1,c125785_g1,c82740_g1,c79376_g2
+GO:0006725	cellular aromatic compound metabolic process	biological_process	0.99772	1	19	106	8260	30985	c81319_g1,c70355_g1,c73070_g1,c77247_g1,c71858_g1,c66959_g1,c77576_g1,c83373_g2,c82785_g1,c77700_g1,c78866_g2,c82951_g1,c5230_g1,c125785_g1,c82740_g1,c79376_g2,c80184_g1,c78976_g1,c71758_g1
+GO:0016772	transferase activity, transferring phosphorus-containing groups	molecular_function	0.99778	1	2	106	2140	30985	c78976_g1,c78866_g2
+GO:0035639	purine ribonucleoside triphosphate binding	molecular_function	0.99914	1	3	106	2890	30985	c77857_g2,c75191_g1,c82785_g1
+GO:0001883	purine nucleoside binding	molecular_function	0.99915	1	3	106	2894	30985	c77857_g2,c82785_g1,c75191_g1
+GO:0032550	purine ribonucleoside binding	molecular_function	0.99915	1	3	106	2894	30985	c77857_g2,c75191_g1,c82785_g1
+GO:0032555	purine ribonucleotide binding	molecular_function	0.99916	1	3	106	2902	30985	c77857_g2,c82785_g1,c75191_g1
+GO:0032549	ribonucleoside binding	molecular_function	0.99916	1	3	106	2898	30985	c82785_g1,c75191_g1,c77857_g2
+GO:0046483	heterocycle metabolic process	biological_process	0.99917	1	18	106	8337	30985	c80184_g1,c78976_g1,c72971_g1,c71758_g1,c5230_g1,c82740_g1,c125785_g1,c79376_g2,c71858_g1,c77247_g1,c73070_g1,c77576_g1,c83373_g2,c82785_g1,c77700_g1,c82951_g1,c78866_g2,c70355_g1
+GO:0001882	nucleoside binding	molecular_function	0.99919	1	3	106	2908	30985	c75191_g1,c82785_g1,c77857_g2
+GO:0017076	purine nucleotide binding	molecular_function	0.99925	1	3	106	2943	30985	c77857_g2,c82785_g1,c75191_g1
+GO:0032553	ribonucleotide binding	molecular_function	0.99928	1	3	106	2953	30985	c77857_g2,c75191_g1,c82785_g1
+GO:0006139	nucleobase-containing compound metabolic process	biological_process	0.99936	1	16	106	7726	30985	c80184_g1,c78976_g1,c71758_g1,c125785_g1,c82740_g1,c79376_g2,c71858_g1,c77247_g1,c73070_g1,c83373_g2,c77576_g1,c82785_g1,c77700_g1,c82951_g1,c78866_g2,c70355_g1
+GO:0034641	cellular nitrogen compound metabolic process	biological_process	0.99937	1	18	106	8455	30985	c71758_g1,c72971_g1,c78976_g1,c80184_g1,c79376_g2,c81038_g2,c82740_g1,c125785_g1,c82951_g1,c78866_g2,c77700_g1,c82785_g1,c83373_g2,c77576_g1,c71858_g1,c77247_g1,c73070_g1,c70355_g1
+GO:0005524	ATP binding	molecular_function	0.99956	1	2	106	2556	30985	c75191_g1,c82785_g1
+GO:0032559	adenyl ribonucleotide binding	molecular_function	0.99956	1	2	106	2562	30985	c75191_g1,c82785_g1
+GO:0000166	nucleotide binding	molecular_function	0.99958	1	4	106	3587	30985	c77857_g2,c78398_g1,c75191_g1,c82785_g1
+GO:1901265	nucleoside phosphate binding	molecular_function	0.99958	1	4	106	3587	30985	c78398_g1,c77857_g2,c75191_g1,c82785_g1
+GO:0030554	adenyl nucleotide binding	molecular_function	0.99961	1	2	106	2600	30985	c75191_g1,c82785_g1
+GO:0036094	small molecule binding	molecular_function	0.99968	1	4	106	3661	30985	c82785_g1,c75191_g1,c77857_g2,c78398_g1
+GO:0003676	nucleic acid binding	molecular_function	0.99987	1	11	106	6604	30985	c79376_g2,c74406_g1,c80903_g3,c78976_g1,c77576_g1,c77247_g1,c73259_g1,c77295_g1,c71758_g1,c77700_g1,c82785_g1
+GO:0005488	binding	molecular_function	0.99999	1	40	106	16725	30985	c82785_g1,c80305_g2,c33876_g1,c71858_g1,c76921_g1,c70026_g1,c71695_g2,c68882_g1,c71758_g1,c68422_g1,c77295_g1,c82981_g1,c78976_g1,c64419_g2,c80324_g2,c81038_g2,c80345_g1,c76391_g1,c40551_g1,c5230_g1,c78449_g1,c78398_g1,c77700_g1,c81217_g1,c77247_g1,c80903_g3,c77576_g1,c78824_g1,c71652_g1,c4845_g1,c78856_g1,c75191_g1,c73259_g1,c77857_g2,c74406_g1,c79376_g2,c67638_g1,c128334_g1,c78964_g1,c76633_g1
+GO:1901363	heterocyclic compound binding	molecular_function	1	1	15	106	9599	30985	c75191_g1,c82785_g1,c77700_g1,c77295_g1,c73259_g1,c71758_g1,c77247_g1,c77857_g2,c80903_g3,c77576_g1,c78976_g1,c74406_g1,c76391_g1,c79376_g2,c78398_g1
+GO:0097159	organic cyclic compound binding	molecular_function	1	1	15	106	9604	30985	c78976_g1,c80903_g3,c77576_g1,c74406_g1,c77247_g1,c77857_g2,c71758_g1,c73259_g1,c77295_g1,c75191_g1,c77700_g1,c82785_g1,c78398_g1,c76391_g1,c79376_g2
