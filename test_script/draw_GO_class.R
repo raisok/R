@@ -24,4 +24,15 @@ library(ggplot2)
 go <- read.table(file = file_in,sep="\t",header = T)
 go$ord=factor(go$terms,levels=go$terms)
 mm = 'xxx'
-ggplot(data=go,mapping = aes(x=go$ord,y=go$number,fill=go$type))+theme_bw() +geom_bar(stat = 'identity',colour='black')+theme(axis.title = element_text(size=24),axis.title.x =element_text(size=18), axis.title.y=element_text(size=18),axis.text.x = element_text(angle = 30,hjust = 0.98,vjust = 0.98,size=14,))+labs(x="Number of genes",y="GO terms",title="GO classifcation")+theme(legend.title = element_blank(),panel.grid=element_blank(),legend.position = "top",legend.text= element_text(size=12),plot.title = element_text(hjust = 0.5))
+ggplot(data=go,mapping = aes(x=go$ord,y=go$number,fill=go$type))+theme_bw() 
++geom_bar(stat = 'identity',colour='black')+
+theme(axis.title = element_text(size=24),axis.title.x =element_text(size=18), 
+axis.title.y=element_text(size=18),
+axis.text.x = element_text(angle = 30,hjust = 0.98,vjust = 0.98,size=14,))
++labs(x="Number of genes",y="GO terms",title="GO classifcation")+
+theme(legend.title = element_blank(),
+panel.grid=element_blank(),
+legend.position = "top",
+legend.text= element_text(size=12),
+plot.title = element_text(hjust = 0.5)
+)
